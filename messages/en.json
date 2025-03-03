@@ -1,0 +1,18 @@
+{
+    "header": {
+        "home":"Home",
+        "catalog":"Catalog",
+        "demo":"Demo",
+        "more":"More Shopify Apps by Globo"
+    },
+    "footer":{
+        "quick":"Quick links",
+        "form":"Form Builder",
+        "smart":"Smart Product Filter & Search",
+        "pre":"Pre-Order",
+        "mega":"Mega Menu",
+        "request":"Request a Quote",
+        "product":"Product Options",
+        "language":"Language"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "header": {
+        "home":"Maison",
+        "catalog":"Catalogue",
+        "demo":"Démo",
+        "more":"Plus d'applications Shopify par Globo"
+    },
+    "footer":{
+        "quick":"Liens rapides",
+        "form":"Générateur de formulaires",
+        "smart":"Filtre et recherche de produits intelligents",
+        "pre":"Précommande",
+        "mega":"Méga menu",
+        "request":"Demander un devis",
+        "product":"Options du produit",
+        "language":"Langue"
+    }
+}

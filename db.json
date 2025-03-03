@@ -1,0 +1,62 @@
+{
+  "list-sample": [
+    {
+      "id": 1,
+      "title": "Variant Image Swatches with Price",
+      "content": "Featuring variant pricing directly with each variant in the eye-catching swatches to facilitate the shopping journey and conserve valuable time for your customers",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_1_7021348a-2332-4c9e-8649-a527cb6b9292_710x.png?v=1712893984"
+    },
+    {
+      "id": 2,
+      "title": "Color/ Custom Swatches",
+      "content": "Provide creative flexibility through our color/custom swatches. Choose hex colors or upload images (in bulk) to craft tailored shopping experiences and intricate designs.",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_2_6ab6b8f3-887b-4803-ad8b-3c3cd40f6a4a_710x.png?v=1712893984"
+    },
+    {
+      "id": 3,
+      "title": "Validate Options with Confirmation",
+      "content": "Boost order accuracy and prevent sizing errors with our confirm selection feature.`${<br/>}`Validate their choice before adding items to the cart, reducing returns or exchanges.",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_3_9b1dfdcd-698c-4f0a-8706-d5c5d5473f84_710x.png?v=1712893984"
+    },
+    {
+      "id": 4,
+      "title": "Customize Out of Stock Variants",
+      "content": "Control how out of stock variants are displayed in your store. Choose to cross out, grey out or hide unavailable options, providing a clear shopping experience for your customers.",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_4_224691c8-e9d0-4a22-9de1-fe69e874c03e_710x.png?v=1712893984"
+    },
+    {
+      "id": 5,
+      "title": "Show Low Stock Alert",
+      "content": "Create urgency and keep your customers informed with Low Stock Alert.",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_5_d6571ba8-3575-416a-a95b-74d334d094cb_710x.png?v=1712893984"
+    },
+    {
+      "id": 6,
+      "title": "Product Groups",
+      "content": "This is the feature that helps you to connect different products and show them under the type of variants. This feature shows in the collection page and product page.",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_6_1d79f25a-5920-4549-b4df-2b4912ab2092_710x.png?v=1712893984"
+    },
+    {
+      "id": 7,
+      "title": "Product Bundles - Combo products",
+      "content": "Push sales when selling many products simultaneously with the product bundles to get a discount",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/Bundle-thumbnail_710x.png?v=1730799999"
+    },
+    {
+      "id": 1,
+      "title": "Product Bundles - Quantity breaks",
+      "content": "Encourage customer to buy more to save more with quantity breaks",
+      "image":"https://nga-appstore.myshopify.com/cdn/shop/files/product-bundle-quantity-break_710x.png?v=1734311670"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,53 @@
+.boxHeader {
+  width: 100%;
+  height: max-content;
+  padding: 20px 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(238, 230, 230);
+  .menuHeader {
+    width: 50%;
+    height: 100%;
+    ul {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      li {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        color: rgb(97, 92, 92);
+
+        &:hover {
+          border-bottom: 1px solid black;
+        }
+      }
+    }
+  }
+  .supportWeb {
+    width: 50%;
+    height: 100%;
+    ul {
+      display: flex;
+      float: right;
+      align-items: center;
+      li {
+        margin-left: 20px;
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+
+        .icon {
+          width: 25px;
+          height: 25px;
+
+          &:hover {
+            width: 30px;
+            height: 30px;
+          }
+        }
+      }
+    }
+  }
+}
