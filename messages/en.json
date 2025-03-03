@@ -1,18 +1,30 @@
 {
-    "header": {
-        "home":"Home",
-        "catalog":"Catalog",
-        "demo":"Demo",
-        "more":"More Shopify Apps by Globo"
-    },
-    "footer":{
-        "quick":"Quick links",
-        "form":"Form Builder",
-        "smart":"Smart Product Filter & Search",
-        "pre":"Pre-Order",
-        "mega":"Mega Menu",
-        "request":"Request a Quote",
-        "product":"Product Options",
-        "language":"Language"
-    }
+  "header": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "demo": "Demo",
+    "more": "More Shopify Apps by Globo"
+  },
+  "footer": {
+    "quick": "Quick links",
+    "form": "Form Builder",
+    "smart": "Smart Product Filter & Search",
+    "pre": "Pre-Order",
+    "mega": "Mega Menu",
+    "request": "Request a Quote",
+    "product": "Product Options",
+    "language": "Language"
+  },
+  "homePage": {
+    "title1": "Make your Shopify Variants Stand Out with GLO Color Swatch,Variant Image",
+    "title2": "Dynamic Collection Swatches",
+    "title3": "Must-have app for your store",
+    "smart": "Smart Product Filter & Search",
+    "often": "(Often installed with Globo Color Swatch)",
+    "help": "Help your shopper find any product within second by advanced filter and search features.",
+    "custom": "-Custom filter trees / filter menu for different collections",
+    "dynamic": "- Dynamic filter options from Collections, Vendors, Product Types, Variants (eg: Size, Color), Rating, Price, Sale Off %, SKU, Tags, Metafields, etc",
+    "smartSearch": "- Smart search bar helps shoppers find exactly what they want",
+    "try": "Try FREE Now"
+  }
 }

@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 import { Assistant } from "next/font/google";
 import "../globals.css";
 import Footer from '../component/footer';
+import Header from '../component/header';
 
  
 const assistant = Assistant({
@@ -37,6 +38,7 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className={assistant.className}>
         <NextIntlClientProvider messages={messages}>
+          <Header />
           {children}
           <Footer />
         </NextIntlClientProvider>

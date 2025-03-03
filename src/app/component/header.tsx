@@ -5,7 +5,9 @@ import { CiUser } from "react-icons/ci";
 import { IoBagHandleOutline } from "react-icons/io5";
 import { SlArrowDown } from "react-icons/sl";
 import styles from "../style/header.module.scss"
+import { useTranslations } from "next-intl";
 function Header() {
+  const t = useTranslations('header')
   return (
   <div className={styles.boxHeader}>
       <div className={styles.menuHeader}>
@@ -19,10 +21,10 @@ function Header() {
               style={{borderRadius:'10px'}}
             />
           </li>
-          <li>Home</li>
-          <li>Catalog</li>
-          <li>Demo<SlArrowDown style={{marginLeft:'10px'}} /></li>
-          <li>More Shopify Apps by Globo<SlArrowDown style={{marginLeft:'10px'}} /></li>
+          <li>{t('home')}</li>
+          <li>{t('catalog')}</li>
+          <li>{t('demo')}<SlArrowDown style={{marginLeft:'10px'}} /></li>
+          <li>{t('more')}<SlArrowDown style={{marginLeft:'10px'}} /></li>
         </ul>
       </div>
       <div className={styles.supportWeb}>

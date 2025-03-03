@@ -1,18 +1,30 @@
 {
-    "header": {
-        "home":"Heim",
-        "catalog":"Katalog",
-        "demo":"Demo",
-        "more":"Weitere Shopify-Apps von Globo"
-    },
-    "footer":{
-        "quick":"Schnelle Links",
-        "form":"Creador de formularios",
-        "smart":"Intelligenter Produktfilter und Suche",
-        "pre":"Vorbestellung",
-        "mega":"Mega-Menü",
-        "request":"Fordern Sie ein Angebot an",
-        "product":"Produktoptionen",
-        "language":"Sprache"
-    }
+  "header": {
+    "home": "Heim",
+    "catalog": "Katalog",
+    "demo": "Demo",
+    "more": "Weitere Shopify-Apps von Globo"
+  },
+  "footer": {
+    "quick": "Schnelle Links",
+    "form": "Creador de formularios",
+    "smart": "Intelligenter Produktfilter und Suche",
+    "pre": "Vorbestellung",
+    "mega": "Mega-Menü",
+    "request": "Fordern Sie ein Angebot an",
+    "product": "Produktoptionen",
+    "language": "Sprache"
+  },
+  "homePage": {
+    "title1": "So wählen Sie Ihre Shopify-Varianten mit GLO Color Swatch, Variant Image aus",
+    "title2": "Dynamische Sammlungsproben",
+    "title3": "Unverzichtbare Anwendung für Ihr Geschäft",
+    "smart": "Intelligenter Produktfilter und Suche",
+    "often": "(Oft mit Globo Color Swatch installiert)",
+    "help": "Helfen Sie Ihrem Käufer, jedes Produkt innerhalb von Sekunden zu finden, indem Sie erweiterte Filter- und Suchfunktionen nutzen.",
+    "custom": "- Benutzerdefinierte Filterbäume/Filtermenü für verschiedene Sammlungen",
+    "dynamic": "- Dynamische Filteroptionen aus Kollektionen, Anbietern, Produkttypen, Varianten (z. B. Größe, Farbe), Bewertung, Preis, Ausverkauf %, SKU, Tags, Metafelder usw",
+    "smartSearch": "- Die intelligente Suchleiste hilft Käufern, genau das zu finden, was sie suchen",
+    "try": "Jetzt KOSTENLOS testen"
+  }
 }

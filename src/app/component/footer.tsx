@@ -9,7 +9,6 @@ import {
   FaCcDiscover,
 } from "react-icons/fa";
 import { SiAmericanexpress } from "react-icons/si";
-import { useState } from "react";
 import { useLocale } from 'next-intl';
 import { useRouter } from 'next/navigation';
 import { ChangeEvent, useTransition } from 'react';
@@ -27,9 +26,9 @@ function Footer() {
   return (
     <div className={styles.footer}>
       <div className={styles.menuFooter}>
-        <h3></h3>
+        <h2>{t('quick')}</h2>
         <ul>
-          <li>{t('from')}</li>
+          <li>{t('form')}</li>
           <li>{t('smart')}</li>
           <li>{t('pre')}</li>
           <li>{t('mega')}</li>
@@ -51,27 +50,27 @@ function Footer() {
           </select>
         </div>
         <div className={styles.rightInfoFooter}>
-          <ul>
+          <ul className={styles.iconRightInfoFooter}>
             <li>
-              <FaCcVisa />
+              <FaCcVisa style={{color:"blue"}} className={styles.icon} />
             </li>
             <li>
-              <FaCcDinersClub />
+              <FaCcDinersClub style={{color:"orange"}} className={styles.icon} />
             </li>
             <li>
-              <FaCcDiscover />
+              <FaCcDiscover style={{color:"blue"}} className={styles.icon} />
             </li>
             <li>
-              <FaPaypal />
+              <FaPaypal style={{color:"rgb(156, 103, 216)"}} className={styles.icon} />
             </li>
             <li>
-              <SiAmericanexpress />
+              <SiAmericanexpress style={{color:"rgb(95, 123, 185)"}}  className={styles.icon} />
             </li>
             <li>
-              <FaCcMastercard />
+              <FaCcMastercard style={{color:"rgb(151, 218, 75)"}}  className={styles.icon} />
             </li>
           </ul>
-          <ul>
+          <ul className={styles.InfoRightInfoFooter}>
             <li>© 2025</li>
             <li>[Demo App] - Globo Color Swatch</li>
             <li>Powered by Shopify</li>
