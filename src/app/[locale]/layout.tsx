@@ -7,6 +7,7 @@ import { Assistant } from "next/font/google";
 import "../globals.css";
 import Footer from '../component/footer';
 import Header from '../component/header';
+import DemoGuide from '../component/demoGuide';
 
  
 const assistant = Assistant({
@@ -38,6 +39,7 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className={assistant.className}>
         <NextIntlClientProvider messages={messages}>
+          <DemoGuide />
           <Header />
           {children}
           <Footer />
