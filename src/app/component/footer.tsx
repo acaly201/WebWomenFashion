@@ -1,6 +1,6 @@
 "use client";
 import styles from "../style/footer.module.scss";
-import {useTranslations} from 'next-intl';
+import { useTranslations } from "next-intl";
 import {
   FaCcVisa,
   FaCcMastercard,
@@ -9,41 +9,46 @@ import {
   FaCcDiscover,
 } from "react-icons/fa";
 import { SiAmericanexpress } from "react-icons/si";
-import { useLocale } from 'next-intl';
-import { useRouter } from 'next/navigation';
-import { ChangeEvent, useTransition } from 'react';
+import { useLocale } from "next-intl";
+import { usePathname, useRouter } from "@/i18n/navigation";
+import { ChangeEvent, useTransition } from "react";
+import { useParams } from "next/navigation";
+import { Locale } from "@/i18n/routing";
 function Footer() {
-   const t = useTranslations('footer');
-   const [isPending, startTransition] = useTransition();
+  const t = useTranslations("footer");
+  const [isPending, startTransition] = useTransition();
   const router = useRouter();
+  const pathname = usePathname();
+  /*const params = useParams(); */
   const localActive = useLocale();
   const onSelectChange = (e: ChangeEvent<HTMLSelectElement>) => {
-    const nextLocale = e.target.value;
+    const nextLocale = e.target.value as Locale;
     startTransition(() => {
-      router.replace(`/${nextLocale}`);
+      router.replace({ pathname}, { locale: nextLocale });
     });
   };
   return (
     <div className={styles.footer}>
       <div className={styles.menuFooter}>
-        <h2>{t('quick')}</h2>
+        <h2>{t("quick")}</h2>
         <ul>
-          <li>{t('form')}</li>
-          <li>{t('smart')}</li>
-          <li>{t('pre')}</li>
-          <li>{t('mega')}</li>
-          <li>{t('request')}</li>
-          <li>{t('product')}</li>
+          <li>{t("form")}</li>
+          <li>{t("smart")}</li>
+          <li>{t("pre")}</li>
+          <li>{t("mega")}</li>
+          <li>{t("request")}</li>
+          <li>{t("product")}</li>
         </ul>
       </div>
       <div className={styles.infoFooter}>
         <div className={styles.leftInfoFooter}>
-          <h5>{t('language')}</h5>
+          <h5>{t("language")}</h5>
           <select
-          defaultValue={localActive}
-          className='bg-transparent py-2'
-          onChange={onSelectChange}
-          disabled={isPending}>
+            defaultValue={localActive}
+            className="bg-transparent py-2"
+            onChange={onSelectChange}
+            disabled={isPending}
+          >
             <option value="en">English</option>
             <option value="de">Deutsch</option>
             <option value="fran">Francais</option>
@@ -52,22 +57,34 @@ function Footer() {
         <div className={styles.rightInfoFooter}>
           <ul className={styles.iconRightInfoFooter}>
             <li>
-              <FaCcVisa style={{color:"blue"}} className={styles.icon} />
+              <FaCcVisa style={{ color: "blue" }} className={styles.icon} />
             </li>
             <li>
-              <FaCcDinersClub style={{color:"orange"}} className={styles.icon} />
+              <FaCcDinersClub
+                style={{ color: "orange" }}
+                className={styles.icon}
+              />
             </li>
             <li>
-              <FaCcDiscover style={{color:"blue"}} className={styles.icon} />
+              <FaCcDiscover style={{ color: "blue" }} className={styles.icon} />
             </li>
             <li>
-              <FaPaypal style={{color:"rgb(156, 103, 216)"}} className={styles.icon} />
+              <FaPaypal
+                style={{ color: "rgb(156, 103, 216)" }}
+                className={styles.icon}
+              />
             </li>
             <li>
-              <SiAmericanexpress style={{color:"rgb(95, 123, 185)"}}  className={styles.icon} />
+              <SiAmericanexpress
+                style={{ color: "rgb(95, 123, 185)" }}
+                className={styles.icon}
+              />
             </li>
             <li>
-              <FaCcMastercard style={{color:"rgb(151, 218, 75)"}}  className={styles.icon} />
+              <FaCcMastercard
+                style={{ color: "rgb(151, 218, 75)" }}
+                className={styles.icon}
+              />
             </li>
           </ul>
           <ul className={styles.InfoRightInfoFooter}>

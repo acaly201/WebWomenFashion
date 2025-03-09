@@ -26,5 +26,12 @@
     "dynamic": "- Dynamische Filteroptionen aus Kollektionen, Anbietern, Produkttypen, Varianten (z. B. Größe, Farbe), Bewertung, Preis, Ausverkauf %, SKU, Tags, Metafelder usw",
     "smartSearch": "- Die intelligente Suchleiste hilft Käufern, genau das zu finden, was sie suchen",
     "try": "Jetzt KOSTENLOS testen"
+  }, "catalogPage": {
+    "title":"Alle",
+    "filter":"Filter",
+    "availability" : "Verfügbarkeit",
+    "price":"Preis" ,
+    "sort":"Sortieren nach",
+    "product":"Produkt"
   }
 }

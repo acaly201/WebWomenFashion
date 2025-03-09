@@ -1,15 +1,15 @@
-import {NextIntlClientProvider} from 'next-intl';
-import {getMessages} from 'next-intl/server';
-import {notFound} from 'next/navigation';
-import {routing} from '@/i18n/routing';
+import { NextIntlClientProvider } from "next-intl";
+import { getMessages } from "next-intl/server";
+import { notFound } from "next/navigation";
+import { routing } from "@/i18n/routing";
 import type { Metadata } from "next";
 import { Assistant } from "next/font/google";
 import "../globals.css";
-import Footer from '../component/footer';
-import Header from '../component/header';
-import DemoGuide from '../component/demoGuide';
+import Footer from "../component/footer";
+import Header from "../component/header";
+import DemoGuide from "../component/demoGuide";
+import { StoreProvider } from "../StoreProvider";
 
- 
 const assistant = Assistant({
   variable: "--font-sans-serif",
   subsets: ["latin"],
@@ -20,31 +20,33 @@ export const metadata: Metadata = {
 };
 export default async function LocaleLayout({
   children,
-  params
+  params,
 }: {
   children: React.ReactNode;
-  params: Promise<{locale: string}>;
+  params: Promise<{ locale: string }>;
 }) {
   // Ensure that the incoming `locale` is valid
-  const {locale} = await params;
+  const { locale } = await params;
   if (!routing.locales.includes(locale as any)) {
     notFound();
   }
- 
+
   // Providing all messages to the client
   // side is the easiest way to get started
   const messages = await getMessages();
- 
+
   return (
-    <html lang={locale}>
-      <body className={assistant.className}>
-        <NextIntlClientProvider messages={messages}>
-          <DemoGuide />
-          <Header />
-          {children}
-          <Footer />
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <StoreProvider>
+      <html lang={locale}>
+        <body className={assistant.className}>
+          <NextIntlClientProvider messages={messages}>
+            <DemoGuide />
+            <Header />
+            {children}
+            <Footer />
+          </NextIntlClientProvider>
+        </body>
+      </html>
+    </StoreProvider>
   );
 }

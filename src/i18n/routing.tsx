@@ -2,9 +2,16 @@ import {defineRouting} from 'next-intl/routing';
 import {createNavigation} from 'next-intl/navigation';
  
 export const routing = defineRouting({
-  // A list of all locales that are supported
   locales: ['en', 'de','fran'],
- 
-  // Used when no locale matches
-  defaultLocale: 'en'
+  defaultLocale: 'en',
+  pathnames: {
+    '/': '/',
+    '/pathnames': {
+      en: '/pathnames',
+      de: '/pathnames',
+      fran:'/pathnames'
+    }
+  }
 });
+export type Pathnames = keyof typeof routing.pathnames;
+export type Locale = (typeof routing.locales)[number];

@@ -1,0 +1,20 @@
+.page_catalog {
+    padding: 50px 150px;
+    width: 100%;
+    height: max-content;
+    .title_page_catalog {
+        font-size: 40px;
+        font-weight: 600;
+        margin-bottom: 30px;
+    }
+    .products_page_catalog {
+        display: flex;
+        justify-content: space-between;
+        ul {
+            display: flex;
+            li {
+                margin: 0 10px;
+            }
+        }
+    }
+}

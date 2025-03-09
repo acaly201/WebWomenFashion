@@ -26,5 +26,13 @@
     "dynamic": "- Dynamic filter options from Collections, Vendors, Product Types, Variants (eg: Size, Color), Rating, Price, Sale Off %, SKU, Tags, Metafields, etc",
     "smartSearch": "- Smart search bar helps shoppers find exactly what they want",
     "try": "Try FREE Now"
+  },
+  "catalogPage": {
+    "title":"All",
+    "filter":"Filter",
+    "availability" : "Availability",
+    "price":"Price" ,
+    "sort":"Sort by",
+    "product":"product"
   }
 }
