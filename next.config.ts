@@ -5,7 +5,31 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'nga-appstore.myshopify.com',
+        hostname: "**",
+        port: '',
+        pathname: '/**',
+        search: '',
+      },
+    ],
+  },
+  images1: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'cdn.shopify.com',
+        port: '',
+        pathname: '/**',
+        search: '',
+      },
+    ],
+  },
+};
+const nextConfig1: NextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'cdn.shopify.com',
         port: '',
         pathname: '/**',
         search: '',

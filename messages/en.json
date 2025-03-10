@@ -3,36 +3,36 @@
     "home": "Home",
     "catalog": "Catalog",
     "demo": "Demo",
-    "more": "More Shopify Apps by Globo"
+    "more": "MoreShopifyAppsbyGlobo"
   },
   "footer": {
-    "quick": "Quick links",
-    "form": "Form Builder",
-    "smart": "Smart Product Filter & Search",
+    "quick": "Quicklinks",
+    "form": "FormBuilder",
+    "smart": "SmartProductFilter&Search",
     "pre": "Pre-Order",
-    "mega": "Mega Menu",
-    "request": "Request a Quote",
-    "product": "Product Options",
+    "mega": "MegaMenu",
+    "request": "RequestaQuote",
+    "product": "ProductOptions",
     "language": "Language"
   },
   "homePage": {
-    "title1": "Make your Shopify Variants Stand Out with GLO Color Swatch,Variant Image",
-    "title2": "Dynamic Collection Swatches",
-    "title3": "Must-have app for your store",
-    "smart": "Smart Product Filter & Search",
-    "often": "(Often installed with Globo Color Swatch)",
-    "help": "Help your shopper find any product within second by advanced filter and search features.",
-    "custom": "-Custom filter trees / filter menu for different collections",
-    "dynamic": "- Dynamic filter options from Collections, Vendors, Product Types, Variants (eg: Size, Color), Rating, Price, Sale Off %, SKU, Tags, Metafields, etc",
-    "smartSearch": "- Smart search bar helps shoppers find exactly what they want",
-    "try": "Try FREE Now"
+    "title1": "MakeyourShopifyVariantsStandOutwithGLOColorSwatch,VariantImage",
+    "title2": "DynamicCollectionSwatches",
+    "title3": "Must-haveappforyourstore",
+    "smart": "SmartProductFilter&Search",
+    "often": "(OfteninstalledwithGloboColorSwatch)",
+    "help": "Helpyourshopperfindanyproductwithinsecondbyadvancedfilterandsearchfeatures.",
+    "custom": "-Customfiltertrees/filtermenufordifferentcollections",
+    "dynamic": "-DynamicfilteroptionsfromCollections,Vendors,ProductTypes,Variants(eg:Size,Color),Rating,Price,SaleOff%,SKU,Tags,Metafields,etc",
+    "smartSearch": "-Smartsearchbarhelpsshoppersfindexactlywhattheywant",
+    "try": "TryFREENow"
   },
   "catalogPage": {
-    "title":"All",
-    "filter":"Filter",
-    "availability" : "Availability",
-    "price":"Price" ,
-    "sort":"Sort by",
-    "product":"product"
+    "title": "All",
+    "filter": "Filter",
+    "availability": "Availability",
+    "price": "Price",
+    "sort": "Sortby",
+    "product": "product"
   }
 }
