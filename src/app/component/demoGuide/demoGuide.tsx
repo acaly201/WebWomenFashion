@@ -1,10 +1,11 @@
 "use client";
 import { LuBookText } from "react-icons/lu";
 import { Api, PREFIX } from "@/setting/api";
-import styles from "../style/demoGuide.module.scss";
+import styles from "@/app/style/demoGuide.module.scss";
 import { useRouter } from "@/i18n/navigation";
 import { FaCaretUp, FaCaretDown, FaAngleLeft } from "react-icons/fa";
 import { IoMdClose } from "react-icons/io";
+import { apiAllProduct } from "@/redux/features/apiProduct/apiProduct";
 import {
   showDemo,
   selectShowDemo,
@@ -42,6 +43,7 @@ export default function DemoGuide() {
         setDataDemoGuide(data);
       })
       .catch(() => Error);
+    dispatch(apiAllProduct());
   }, []);
   useEffect(() => {
     dataShowSelect &&

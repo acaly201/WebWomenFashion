@@ -1,5 +1,5 @@
 "use client";
-import styles from "../style/footer.module.scss";
+import styles from "@/app/style/footer.module.scss";
 import { useTranslations } from "next-intl";
 import {
   FaCcVisa,

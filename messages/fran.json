@@ -3,29 +3,29 @@
     "home": "Maison",
     "catalog": "Catalogue",
     "demo": "Démo",
-    "more": "Plusd'applicationsShopifyparGlobo"
+    "more": "Plusd'applications Shopify par Globo"
   },
   "footer": {
-    "quick": "Liensrapides",
-    "form": "Générateurdeformulaires",
-    "smart": "Filtreetrecherchedeproduitsintelligents",
+    "quick": "Liens rapides",
+    "form": "Générateur de formulaires",
+    "smart": "Filtre et recherchede produits intelligents",
     "pre": "Précommande",
-    "mega": "Mégamenu",
-    "request": "Demanderundevis",
-    "product": "Optionsduproduit",
+    "mega": "Méga menu",
+    "request": "Demander un devis",
+    "product": "Options du produit",
     "language": "Langue"
   },
   "homePage": {
-    "title1": "FaitesressortirvosvariantesShopifyavecGLOColorSwatch,VariantImage",
-    "title2": "Échantillonsdecollectiondynamique",
-    "title3": "Applicationindispensablepourvotreboutique",
-    "smart": "Filtreetrechercheintelligentsdeproduits",
-    "often": "(SouventinstalléavecGloboColorSwatch)",
-    "help": "Aidezvotreacheteuràtrouvern'importequelproduitenunesecondegrâceàdesfonctionsavancéesdefiltrageetderecherche.",
-    "custom": "-Arbresdefiltrespersonnalisés/menudefiltrespourdifférentescollections",
-    "dynamic": "-Optionsdefiltredynamiqueàpartirdescollections,desfournisseurs,destypesdeproduits,desvariantes(parexemple:taille,couleur),del'évaluation,duprix,dupourcentagedevente,duSKU,desbalises,desmétachamps,etc.",
-    "smartSearch": "-Labarrederechercheintelligenteaidelesacheteursàtrouverexactementcequ'ilsveulent",
-    "try": "EssayezGRATUITEMENTmaintenant"
+    "title1": "Faites ressortir vos variantes Shopify avec l'échantillon de couleur GLO et l'image de variante",
+    "title2": "Échantillons de la collection dynamique",
+    "title3": "Application indispensable pour votre magasin",
+    "smart": "Filtre et recherche de produits intelligents",
+    "often": "(Souvent installé avec Globo Color Swatch)",
+    "help": "Aidez votre acheteur à trouver n'importe quel produit en quelques secondes grâce à des fonctionnalités avancées de filtrage et de recherche.",
+    "custom": "-Arbres de filtres personnalisés / menu de filtres pour différentes collections",
+    "dynamic": "-Options de filtrage dynamique à partir des collections, des fournisseurs, des types de produits, des variantes (par exemple : taille, couleur), de la note, du prix, du pourcentage de réduction, du SKU, des balises, des métachamps, etc.",
+    "smartSearch": "-La barre de recherche intelligente aide les acheteurs à trouver exactement ce qu'ils veulent",
+    "try": "Essayez GRATUITEMENT maintenant"
   },
   "catalogPage": {
     "title": "Tout",

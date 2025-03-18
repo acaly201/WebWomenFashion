@@ -2,127 +2,128 @@
   "list_sample": [
     {
       "id": 1,
-      "title": "VariantImageSwatcheswithPrice",
-      "content": "Featuringvariantpricingdirectlywitheachvariantintheeye-catchingswatchestofacilitatetheshoppingjourneyandconservevaluabletimeforyourcustomers",
+      "title": "Variant Image Swatches with Price",
+      "content": "Featuring variant pricing directly with each variant in the eye-catching swatches to facilitate the shopping journey and conserve valuable time for your customers",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_1_7021348a-2332-4c9e-8649-a527cb6b9292_710x.png"
     },
     {
       "id": 2,
-      "title": "Color/CustomSwatches",
-      "content": "Providecreativeflexibilitythroughourcolor/customswatches.Choosehexcolorsoruploadimages(inbulk)tocrafttailoredshoppingexperiencesandintricatedesigns.",
+      "title": "Color/ Custom Swatches",
+      "content": "Provide creative flexibility through our color/custom swatches. Choose hex colors or upload images (in bulk) to craft tailored shopping experiences and intricate designs.",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_2_6ab6b8f3-887b-4803-ad8b-3c3cd40f6a4a_710x.png"
     },
     {
       "id": 3,
-      "title": "ValidateOptionswithConfirmation",
-      "content": "Boostorderaccuracyandpreventsizingerrorswithourconfirmselectionfeature.`${<br/>}`Validatetheirchoicebeforeaddingitemstothecart,reducingreturnsorexchanges.",
+      "title": "Validate Options with Confirmation",
+      "content": "Boost order accuracy and prevent sizing errors with our confirm selection feature.Validate their choice before adding items to the cart, reducing returns or exchanges.",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_3_9b1dfdcd-698c-4f0a-8706-d5c5d5473f84_710x.png"
     },
     {
       "id": 4,
-      "title": "CustomizeOutofStockVariants",
-      "content": "Controlhowoutofstockvariantsaredisplayedinyourstore.Choosetocrossout,greyoutorhideunavailableoptions,providingaclearshoppingexperienceforyourcustomers.",
+      "title": "Customize Out of Stock Variants",
+      "content": "Control how out of stock variants are displayed in your store. Choose to cross out, grey out or hide unavailable options, providing a clear shopping experience for your customers.",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_4_224691c8-e9d0-4a22-9de1-fe69e874c03e_710x.png"
     },
     {
       "id": 5,
-      "title": "ShowLowStockAlert",
-      "content": "CreateurgencyandkeepyourcustomersinformedwithLowStockAlert.",
+      "title": "Show Low Stock Alert",
+      "content": "Create urgency and keep your customers informed with Low Stock Alert.",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_5_d6571ba8-3575-416a-a95b-74d334d094cb_710x.png"
     },
     {
       "id": 6,
-      "title": "ProductGroups",
-      "content": "Thisisthefeaturethathelpsyoutoconnectdifferentproductsandshowthemunderthetypeofvariants.Thisfeatureshowsinthecollectionpageandproductpage.",
+      "title": "Product Groups",
+      "content": "This is the feature that helps you to connect different products and show them under the type of variants. This feature shows in the collection page and product page.",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Thumbnail_6_1d79f25a-5920-4549-b4df-2b4912ab2092_710x.png"
     },
     {
       "id": 7,
-      "title": "ProductBundles-Comboproducts",
-      "content": "Pushsaleswhensellingmanyproductssimultaneouslywiththeproductbundlestogetadiscount",
+      "title": "Product Bundles - Combo products",
+      "content": "Push sales when selling many products simultaneously with the product bundles to get a discount",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/Bundle-thumbnail_710x.png"
     },
     {
       "id": 8,
-      "title": "ProductBundles-Quantitybreaks",
-      "content": "Encouragecustomertobuymoretosavemorewithquantitybreaks",
+      "title": "Product Bundles-Quantity breaks",
+      "content": "Encourage customer to buy more to save more with quantity breaks",
       "image": "https://nga-appstore.myshopify.com/cdn/shop/files/product-bundle-quantity-break_710x.png"
     }
   ],
   "demo_guide": [
     {
       "id": 1,
-      "title": "Swatchonproductpage",
+      "title": "Swatch on product page",
       "content": "product"
     },
     {
       "id": 2,
-      "title": "Swatchoncollectionpage",
+      "title": "Swatch on collection page",
       "content": "collection"
     },
     {
       "id": 3,
-      "title": "Swatchonhomepage"
+      "title": "Swatch on home page"
     }
   ],
   "product": [
     {
       "id": 1,
       "status": false,
-      "title": "Swatchwithonecolor🔥"
+      "title": "Swatch with one color🔥"
     },
     {
       "id": 2,
       "status": false,
-      "title": "Swatchwithtwocolor⭐"
+      "title": "Swatch with two color⭐"
     },
     {
       "id": 3,
       "status": false,
-      "title": "Swatchwithautomatedvariantimage"
+      "title": "Swatch with automated variant image"
     },
     {
       "id": 4,
       "status": false,
-      "title": "Swatchwithbutton"
+      "title": "Swatch with button"
     },
     {
       "id": 5,
       "status": false,
-      "title": "Swatchwithdropdown"
+      "title": "Swatch with dropdown"
     },
     {
       "id": 6,
       "status": false,
-      "title": "Swatchrequirecustomerstoselectanoption"
+      "title": "Swatch require customers to select an option"
     }
   ],
   "collection": [
     {
       "id": 1,
       "status": false,
-      "title": "Swatchwithcarousel🔥"
+      "title": "Swatch with carousel🔥"
     },
     {
       "id": 2,
       "status": false,
-      "title": "Swatchwithlimitshowedvariant⭐"
+      "title": "Swatch with limit show edvariant⭐"
     },
     {
       "id": 3,
       "status": false,
-      "title": "Swatchwithaddtocartbutton"
+      "title": "Swatch with add to cart button"
     }
   ],
   "list_product": [
     {
       "id": 6815747670088,
-      "title": "WomenOversizedSweatshirt",
+      "title": "Women Oversized Sweatshirt",
       "handle": "women-oversized-sweatshirt",
-      "description": "<p>BlackEYEOversizedSweatshirt,inFleecefabric,Unlined,RegularLength,Oversizedfit,NoClosure,StraightHemlineandfeaturesPrintDetailAtFront</p>\n<p><strong>ModelInfo</strong></p>\n<ul>\n<li>ModeliswearingsizeS</li>\n<li>ModelChest-33\"</li>\n<li>Waist-27\"</li>\n<li>Height-5'8\"</li>\n</ul>",
+      "other_product": false,
+      "description": "<p>Black EYE Oversized Sweatshirt, in Fleece fabric, Unlined, Regular Length, Oversized fit, No Closure, Straight Hemline and features Print Detail At Front</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Chest - 33\"</li>\n<li>Waist - 27\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
       "published_at": "2024-03-01T11:33:54+07:00",
       "created_at": "2024-03-01T11:33:54+07:00",
-      "vendor": "[DemoApp]-GloboColorSwatch",
+      "vendor": "[Demo App] - Globo Color Swatch",
       "type": "",
       "tags": [],
       "price": 2500,
@@ -146,6 +147,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263628070984,
+            "stock": 7,
             "product_id": 6815747670088,
             "position": 7,
             "created_at": "2024-03-01T11:32:52+07:00",
@@ -154,12 +156,16 @@
             "width": 1920,
             "height": 2560,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7491-1.jpg",
-            "variant_ids": [40119330897992]
+            "variant_ids": [
+              40119330897992
+            ]
           },
           "available": true,
-          "name": "WomenOversizedSweatshirt-White",
+          "name": "Women Oversized Sweatshirt - White",
           "public_title": "White",
-          "options": ["White"],
+          "options": [
+            "White"
+          ],
           "price": 2500,
           "weight": 0,
           "compare_at_price": null,
@@ -187,8 +193,8 @@
         },
         {
           "id": 40119330930760,
-          "title": "BlackEYE",
-          "option1": "BlackEYE",
+          "title": "Black EYE",
+          "option1": "Black EYE",
           "option2": null,
           "option3": null,
           "sku": "",
@@ -196,6 +202,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263628103752,
+            "stock": 6,
             "product_id": 6815747670088,
             "position": 8,
             "created_at": "2024-03-01T11:32:52+07:00",
@@ -204,12 +211,16 @@
             "width": 1920,
             "height": 2560,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7490-1.jpg",
-            "variant_ids": [40119330930760]
+            "variant_ids": [
+              40119330930760
+            ]
           },
           "available": true,
-          "name": "WomenOversizedSweatshirt-BlackEYE",
-          "public_title": "BlackEYE",
-          "options": ["BlackEYE"],
+          "name": "Women Oversized Sweatshirt - Black EYE",
+          "public_title": "Black EYE",
+          "options": [
+            "Black EYE"
+          ],
           "price": 2500,
           "weight": 0,
           "compare_at_price": null,
@@ -246,6 +257,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263628136520,
+            "stock": 7,
             "product_id": 6815747670088,
             "position": 9,
             "created_at": "2024-03-01T11:32:52+07:00",
@@ -254,12 +266,16 @@
             "width": 1920,
             "height": 2560,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7489-1.jpg",
-            "variant_ids": [40119330963528]
+            "variant_ids": [
+              40119330963528
+            ]
           },
           "available": true,
-          "name": "WomenOversizedSweatshirt-Blue",
+          "name": "Women Oversized Sweatshirt - Blue",
           "public_title": "Blue",
-          "options": ["Blue"],
+          "options": [
+            "Blue"
+          ],
           "price": 2500,
           "weight": 0,
           "compare_at_price": null,
@@ -287,8 +303,8 @@
         },
         {
           "id": 40119330996296,
-          "title": "BlackFleece",
-          "option1": "BlackFleece",
+          "title": "Black Fleece",
+          "option1": "Black Fleece",
           "option2": null,
           "option3": null,
           "sku": "",
@@ -296,6 +312,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263628169288,
+            "stock": 2,
             "product_id": 6815747670088,
             "position": 10,
             "created_at": "2024-03-01T11:32:53+07:00",
@@ -304,12 +321,16 @@
             "width": 1920,
             "height": 2560,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7488-1.jpg",
-            "variant_ids": [40119330996296]
+            "variant_ids": [
+              40119330996296
+            ]
           },
           "available": true,
-          "name": "WomenOversizedSweatshirt-BlackFleece",
-          "public_title": "BlackFleece",
-          "options": ["BlackFleece"],
+          "name": "Women Oversized Sweatshirt - Black Fleece",
+          "public_title": "Black Fleece",
+          "options": [
+            "Black Fleece"
+          ],
           "price": 2500,
           "weight": 0,
           "compare_at_price": null,
@@ -346,6 +367,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263628202056,
+            "stock": 1,
             "product_id": 6815747670088,
             "position": 11,
             "created_at": "2024-03-01T11:32:52+07:00",
@@ -354,12 +376,16 @@
             "width": 1920,
             "height": 2560,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7487-1.jpg",
-            "variant_ids": [40119331029064]
+            "variant_ids": [
+              40119331029064
+            ]
           },
           "available": true,
-          "name": "WomenOversizedSweatshirt-Lavender",
+          "name": "Women Oversized Sweatshirt - Lavender",
           "public_title": "Lavender",
-          "options": ["Lavender"],
+          "options": [
+            "Lavender"
+          ],
           "price": 2500,
           "weight": 0,
           "compare_at_price": null,
@@ -387,8 +413,8 @@
         },
         {
           "id": 40119331061832,
-          "title": "Off-WhiteCOOL",
-          "option1": "Off-WhiteCOOL",
+          "title": "Off-White COOL",
+          "option1": "Off-White COOL",
           "option2": null,
           "option3": null,
           "sku": "",
@@ -397,6 +423,7 @@
           "featured_image": {
             "id": 30263628234824,
             "product_id": 6815747670088,
+            "stock": 8,
             "position": 12,
             "created_at": "2024-03-01T11:32:52+07:00",
             "updated_at": "2024-03-01T11:32:53+07:00",
@@ -404,12 +431,16 @@
             "width": 1920,
             "height": 2560,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7485-1.jpg",
-            "variant_ids": [40119331061832]
+            "variant_ids": [
+              40119331061832
+            ]
           },
           "available": true,
-          "name": "WomenOversizedSweatshirt-Off-WhiteCOOL",
-          "public_title": "Off-WhiteCOOL",
-          "options": ["Off-WhiteCOOL"],
+          "name": "Women Oversized Sweatshirt - Off-White COOL",
+          "public_title": "Off-White COOL",
+          "options": [
+            "Off-White COOL"
+          ],
           "price": 2500,
           "weight": 0,
           "compare_at_price": null,
@@ -457,11 +488,11 @@
           "position": 1,
           "values": [
             "White",
-            "BlackEYE",
+            "Black EYE",
             "Blue",
-            "BlackFleece",
+            "Black Fleece",
             "Lavender",
-            "Off-WhiteCOOL"
+            "Off-White COOL"
           ]
         }
       ],
@@ -664,13 +695,992 @@
       "selling_plan_groups": []
     },
     {
+      "id": 6815753306184,
+      "title": "Women High Neck Sweater",
+      "handle": "women-high-neck-sweater",
+      "other_product": true,
+      "description": "<p>Red Rib Full Sleeves High Neck Sweater, in Viscose Nylon Rib fabric, Unlined, Regular Length, Slim Fit, No Closure, Straight Hemline and features Self Ribbed Design</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Chest - 33\"</li>\n<li>Waist - 27\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
+      "published_at": "2024-03-01T13:24:13+07:00",
+      "created_at": "2024-03-01T13:24:13+07:00",
+      "vendor": "[Demo App] - Globo Color Swatch",
+      "type": "",
+      "tags": [],
+      "price": 3500,
+      "price_min": 3500,
+      "price_max": 3500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 40119379787848,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263916101704,
+            "product_id": 6815753306184,
+            "position": 7,
+            "stock": 10,
+            "created_at": "2024-03-01T13:23:24+07:00",
+            "updated_at": "2024-03-01T13:23:27+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_87975a14-544a-41c8-8aa4-a886e30560d7.jpg",
+            "variant_ids": [
+              40119379787848
+            ]
+          },
+          "available": true,
+          "name": "Women High Neck Sweater - Red",
+          "public_title": "Red",
+          "options": [
+            "Red"
+          ],
+          "price": 3500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631793066056,
+            "position": 7,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_87975a14-544a-41c8-8aa4-a886e30560d7.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119379820616,
+          "title": "Brown",
+          "option1": "Brown",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263916134472,
+            "stock": 12,
+            "product_id": 6815753306184,
+            "position": 8,
+            "created_at": "2024-03-01T13:23:25+07:00",
+            "updated_at": "2024-03-01T13:23:26+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_494cdefa-f2d9-4eab-a368-2753c916be64.jpg",
+            "variant_ids": [
+              40119379820616
+            ]
+          },
+          "available": true,
+          "name": "Women High Neck Sweater - Brown",
+          "public_title": "Brown",
+          "options": [
+            "Brown"
+          ],
+          "price": 3500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631793131592,
+            "position": 8,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_494cdefa-f2d9-4eab-a368-2753c916be64.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119379853384,
+          "title": "Pink",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263916167240,
+            "stock": 11,
+            "product_id": 6815753306184,
+            "position": 9,
+            "created_at": "2024-03-01T13:23:25+07:00",
+            "updated_at": "2024-03-01T13:23:26+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_0c322efb-9994-45d7-ab40-21ab785f900c.jpg",
+            "variant_ids": [
+              40119379853384
+            ]
+          },
+          "available": true,
+          "name": "Women High Neck Sweater - Pink",
+          "public_title": "Pink",
+          "options": [
+            "Pink"
+          ],
+          "price": 3500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631793098824,
+            "position": 9,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_0c322efb-9994-45d7-ab40-21ab785f900c.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119379886152,
+          "title": "Purple",
+          "option1": "Purple",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263916200008,
+            "stock": 0,
+            "product_id": 6815753306184,
+            "position": 10,
+            "created_at": "2024-03-01T13:23:25+07:00",
+            "updated_at": "2024-03-01T13:23:26+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_0f144261-4673-4778-8011-2c980bbacb4a.jpg",
+            "variant_ids": [
+              40119379886152
+            ]
+          },
+          "available": true,
+          "name": "Women High Neck Sweater - Purple",
+          "public_title": "Purple",
+          "options": [
+            "Purple"
+          ],
+          "price": 3500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631793229896,
+            "position": 10,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_0f144261-4673-4778-8011-2c980bbacb4a.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119379918920,
+          "title": "Black",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263916232776,
+            "stock": 7,
+            "product_id": 6815753306184,
+            "position": 11,
+            "created_at": "2024-03-01T13:23:25+07:00",
+            "updated_at": "2024-03-01T13:23:26+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_e5d88b8f-936e-4788-b787-1ae5495e5785.jpg",
+            "variant_ids": [
+              40119379918920
+            ]
+          },
+          "available": true,
+          "name": "Women High Neck Sweater - Black",
+          "public_title": "Black",
+          "options": [
+            "Black"
+          ],
+          "price": 3500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631793164360,
+            "position": 11,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_e5d88b8f-936e-4788-b787-1ae5495e5785.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119379951688,
+          "title": "Navy",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263916265544,
+            "stock": 8,
+            "product_id": 6815753306184,
+            "position": 12,
+            "created_at": "2024-03-01T13:23:25+07:00",
+            "updated_at": "2024-03-01T13:23:26+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_cc9a0cd8-a62b-436c-ae14-945ec498c7a8.jpg",
+            "variant_ids": [
+              40119379951688
+            ]
+          },
+          "available": true,
+          "name": "Women High Neck Sweater - Navy",
+          "public_title": "Navy",
+          "options": [
+            "Navy"
+          ],
+          "price": 3500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631793197128,
+            "position": 12,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_cc9a0cd8-a62b-436c-ae14-945ec498c7a8.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_93e335bb-fc41-4bfb-b1cc-71b79a261bc3.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_11034bff-1e69-48df-a728-ecaf120f13dc.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_6be9b45f-a4c0-48b8-8dc1-19cc059c0585.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_43cfc68b-0e57-4bf8-bd68-5e5a5e8b43d1.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_2555784a-91ba-49eb-bc13-2690f3cfaf52.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_71b1483c-51e3-4b99-9e34-fc604c19bce7.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_87975a14-544a-41c8-8aa4-a886e30560d7.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_494cdefa-f2d9-4eab-a368-2753c916be64.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_0c322efb-9994-45d7-ab40-21ab785f900c.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_0f144261-4673-4778-8011-2c980bbacb4a.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_e5d88b8f-936e-4788-b787-1ae5495e5785.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_cc9a0cd8-a62b-436c-ae14-945ec498c7a8.jpg"
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_93e335bb-fc41-4bfb-b1cc-71b79a261bc3.jpg",
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Red",
+            "Brown",
+            "Pink",
+            "Purple",
+            "Black",
+            "Navy"
+          ]
+        }
+      ],
+      "url": "/products/women-high-neck-sweater",
+      "media": [
+        {
+          "alt": null,
+          "id": 22631793328200,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_93e335bb-fc41-4bfb-b1cc-71b79a261bc3.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_93e335bb-fc41-4bfb-b1cc-71b79a261bc3.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793360968,
+          "position": 2,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_11034bff-1e69-48df-a728-ecaf120f13dc.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_11034bff-1e69-48df-a728-ecaf120f13dc.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793393736,
+          "position": 3,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_6be9b45f-a4c0-48b8-8dc1-19cc059c0585.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_6be9b45f-a4c0-48b8-8dc1-19cc059c0585.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793426504,
+          "position": 4,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_43cfc68b-0e57-4bf8-bd68-5e5a5e8b43d1.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_43cfc68b-0e57-4bf8-bd68-5e5a5e8b43d1.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793459272,
+          "position": 5,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_2555784a-91ba-49eb-bc13-2690f3cfaf52.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_2555784a-91ba-49eb-bc13-2690f3cfaf52.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793492040,
+          "position": 6,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_71b1483c-51e3-4b99-9e34-fc604c19bce7.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_71b1483c-51e3-4b99-9e34-fc604c19bce7.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793066056,
+          "position": 7,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_87975a14-544a-41c8-8aa4-a886e30560d7.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7422-1_1600x_87975a14-544a-41c8-8aa4-a886e30560d7.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793131592,
+          "position": 8,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_494cdefa-f2d9-4eab-a368-2753c916be64.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7421-1_1600x_494cdefa-f2d9-4eab-a368-2753c916be64.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793098824,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_0c322efb-9994-45d7-ab40-21ab785f900c.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7420-1_1600x_0c322efb-9994-45d7-ab40-21ab785f900c.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793229896,
+          "position": 10,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_0f144261-4673-4778-8011-2c980bbacb4a.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7419-1_1600x_0f144261-4673-4778-8011-2c980bbacb4a.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793164360,
+          "position": 11,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_e5d88b8f-936e-4788-b787-1ae5495e5785.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7418-1_1600x_e5d88b8f-936e-4788-b787-1ae5495e5785.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631793197128,
+          "position": 12,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_cc9a0cd8-a62b-436c-ae14-945ec498c7a8.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7417-1_1600x_cc9a0cd8-a62b-436c-ae14-945ec498c7a8.jpg",
+          "width": 1600
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": []
+    },
+    {
+      "id": 6815754551368,
+      "title": "Women A-Line Skirt",
+      "handle": "women-a-line-skirt",
+      "other_product": true,
+      "description": "<p>Beige Rib Pencil Skirt, in Rib fabric, Unlined, Regular Length, Slim Fit, Elasticated Waist, Straight Hemline and features Slit Detail At Side</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Waist - 27\"</li>\n<li>Hips - 37\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
+      "published_at": "2024-03-01T13:45:24+07:00",
+      "created_at": "2024-03-01T13:45:24+07:00",
+      "vendor": "[Demo App] - Globo Color Swatch",
+      "type": "",
+      "tags": [],
+      "price": 4000,
+      "price_min": 4000,
+      "price_max": 4000,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 40119391191112,
+          "title": "Orange",
+          "option1": "Orange",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263928881224,
+            "stock": 10,
+            "product_id": 6815754551368,
+            "position": 5,
+            "created_at": "2024-03-01T13:44:46+07:00",
+            "updated_at": "2024-03-01T13:44:47+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg",
+            "variant_ids": [
+              40119391191112
+            ]
+          },
+          "available": true,
+          "name": "Women A-Line Skirt - Orange",
+          "public_title": "Orange",
+          "options": [
+            "Orange"
+          ],
+          "price": 4000,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631805517896,
+            "position": 5,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119391223880,
+          "title": "Beige",
+          "option1": "Beige",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263928913992,
+            "stock": 16,
+            "product_id": 6815754551368,
+            "position": 6,
+            "created_at": "2024-03-01T13:44:45+07:00",
+            "updated_at": "2024-03-01T13:44:47+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg",
+            "variant_ids": [
+              40119391223880
+            ]
+          },
+          "available": true,
+          "name": "Women A-Line Skirt - Beige",
+          "public_title": "Beige",
+          "options": [
+            "Beige"
+          ],
+          "price": 4000,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631805419592,
+            "position": 6,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119391256648,
+          "title": "Pink",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263928946760,
+            "stock": 3,
+            "product_id": 6815754551368,
+            "position": 7,
+            "created_at": "2024-03-01T13:44:45+07:00",
+            "updated_at": "2024-03-01T13:44:47+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg",
+            "variant_ids": [
+              40119391256648
+            ]
+          },
+          "available": true,
+          "name": "Women A-Line Skirt - Pink",
+          "public_title": "Pink",
+          "options": [
+            "Pink"
+          ],
+          "price": 4000,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631805485128,
+            "position": 7,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119391289416,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30263928979528,
+            "stock": 0,
+            "product_id": 6815754551368,
+            "position": 8,
+            "created_at": "2024-03-01T13:44:45+07:00",
+            "updated_at": "2024-03-01T13:44:46+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg",
+            "variant_ids": [
+              40119391289416
+            ]
+          },
+          "available": true,
+          "name": "Women A-Line Skirt - Green",
+          "public_title": "Green",
+          "options": [
+            "Green"
+          ],
+          "price": 4000,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631805452360,
+            "position": 8,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_7ae1d874-71e6-48a5-b9c6-6c6d35429c5c.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_57ae8466-5d6c-43d7-b7ba-d021f2967362.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_bce3730e-e155-480b-b832-f28438634529.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg"
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg",
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Orange",
+            "Beige",
+            "Pink",
+            "Green"
+          ]
+        }
+      ],
+      "url": "/products/women-a-line-skirt",
+      "media": [
+        {
+          "alt": null,
+          "id": 22631806009416,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631806042184,
+          "position": 2,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_7ae1d874-71e6-48a5-b9c6-6c6d35429c5c.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_7ae1d874-71e6-48a5-b9c6-6c6d35429c5c.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631806074952,
+          "position": 3,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_57ae8466-5d6c-43d7-b7ba-d021f2967362.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_57ae8466-5d6c-43d7-b7ba-d021f2967362.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631806107720,
+          "position": 4,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_bce3730e-e155-480b-b832-f28438634529.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_bce3730e-e155-480b-b832-f28438634529.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631805517896,
+          "position": 5,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631805419592,
+          "position": 6,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631805485128,
+          "position": 7,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg",
+          "width": 1600
+        },
+        {
+          "alt": null,
+          "id": 22631805452360,
+          "position": 8,
+          "preview_image": {
+            "aspect_ratio": 0.75,
+            "height": 2133,
+            "width": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg"
+          },
+          "aspect_ratio": 0.75,
+          "height": 2133,
+          "media_type": "image",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg",
+          "width": 1600
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": []
+    },
+    {
       "id": 6815754977352,
-      "title": "WomenOpenCardiganTop",
+      "title": "Women Open Cardigan Top",
       "handle": "women-open-cardigan-top",
-      "description": "<p>Off-WhiteRibFrontOpenCardiganTop,inRibfabric,Unlined,RegularLength,RegularFit,ButtonClosure,StraightHemlineandfeaturesPlasticButtonDetailAtFront</p>\n<p><strong>ModelInfo</strong></p>\n<ul>\n<li>ModeliswearingsizeS</li>\n<li>ModelChest-33\"</li>\n<li>Waist-27\"</li>\n<li>Height-5'8\"</li>\n</ul>",
+      "other_product": false,
+      "description": "<p>Off-White Rib Front Open Cardigan Top, in Rib fabric, Unlined, Regular Length, Regular Fit, Button Closure, Straight Hemline and features Plastic Button Detail At Front</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Chest - 33\"</li>\n<li>Waist - 27\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
       "published_at": "2024-03-01T14:11:28+07:00",
       "created_at": "2024-03-01T14:11:28+07:00",
-      "vendor": "[DemoApp]-GloboColorSwatch",
+      "vendor": "[Demo App] - Globo Color Swatch",
       "type": "",
       "tags": [],
       "price": 3400,
@@ -694,6 +1704,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263942512712,
+            "stock": 2,
             "product_id": 6815754977352,
             "position": 5,
             "created_at": "2024-03-01T14:11:06+07:00",
@@ -702,12 +1713,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41730-1_1600x_7ea241b8-ef85-471c-b06f-7516631ad025.jpg",
-            "variant_ids": [40119392370760]
+            "variant_ids": [
+              40119392370760
+            ]
           },
           "available": true,
-          "name": "WomenOpenCardiganTop-White",
+          "name": "Women Open Cardigan Top - White",
           "public_title": "White",
-          "options": ["White"],
+          "options": [
+            "White"
+          ],
           "price": 3400,
           "weight": 0,
           "compare_at_price": null,
@@ -744,6 +1759,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263942545480,
+            "stock": 7,
             "product_id": 6815754977352,
             "position": 6,
             "created_at": "2024-03-01T14:11:06+07:00",
@@ -752,12 +1768,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41729-1_1600x_fb2cf1bb-3756-48c4-8f6d-5a32762bf500.jpg",
-            "variant_ids": [40119392403528]
+            "variant_ids": [
+              40119392403528
+            ]
           },
           "available": true,
-          "name": "WomenOpenCardiganTop-Green",
+          "name": "Women Open Cardigan Top - Green",
           "public_title": "Green",
-          "options": ["Green"],
+          "options": [
+            "Green"
+          ],
           "price": 3400,
           "weight": 0,
           "compare_at_price": null,
@@ -794,6 +1814,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263942578248,
+            "stock": 5,
             "product_id": 6815754977352,
             "position": 7,
             "created_at": "2024-03-01T14:11:06+07:00",
@@ -802,12 +1823,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41728-1_1600x_7ab2ca15-5a18-461a-b730-de0474582086.jpg",
-            "variant_ids": [40119392436296]
+            "variant_ids": [
+              40119392436296
+            ]
           },
           "available": true,
-          "name": "WomenOpenCardiganTop-Navy",
+          "name": "Women Open Cardigan Top - Navy",
           "public_title": "Navy",
-          "options": ["Navy"],
+          "options": [
+            "Navy"
+          ],
           "price": 3400,
           "weight": 0,
           "compare_at_price": null,
@@ -844,6 +1869,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263942611016,
+            "stock": 5,
             "product_id": 6815754977352,
             "position": 8,
             "created_at": "2024-03-01T14:11:06+07:00",
@@ -852,12 +1878,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41727-1_1600x_827b741c-9c93-4bfa-aedf-b8a271747f5f.jpg",
-            "variant_ids": [40119392469064]
+            "variant_ids": [
+              40119392469064
+            ]
           },
           "available": true,
-          "name": "WomenOpenCardiganTop-Grey",
+          "name": "Women Open Cardigan Top - Grey",
           "public_title": "Grey",
-          "options": ["Grey"],
+          "options": [
+            "Grey"
+          ],
           "price": 3400,
           "weight": 0,
           "compare_at_price": null,
@@ -899,7 +1929,12 @@
         {
           "name": "Color",
           "position": 1,
-          "values": ["White", "Green", "Navy", "Grey"]
+          "values": [
+            "White",
+            "Green",
+            "Navy",
+            "Grey"
+          ]
         }
       ],
       "url": "/products/women-open-cardigan-top",
@@ -1037,386 +2072,14 @@
       "selling_plan_groups": []
     },
     {
-      "id": 6815755763784,
-      "title": "WomenStrappyMaxiDress",
-      "handle": "women-strappy-maxi-dress",
-      "description": "<p>WhiteSchiffliStrappyMaxiDress,inCottonSchifflifabric,CottonVoile,FullLength,Fit&amp;Flare,NoClosure,FlaredHemlineandfeaturesSmockingDetaiAtBack</p>\n<p><strong>ModelInfo<span> </span></strong></p>\n<ul>\n<li>ModeliswearingsizeS</li>\n<li>ModelChest-33\"</li>\n<li>Waist-27\"</li>\n<li>Hips-37\"</li>\n<li>Height-5'8\"</li>\n</ul>",
-      "published_at": "2024-03-01T15:06:39+07:00",
-      "created_at": "2024-03-01T15:06:39+07:00",
-      "vendor": "[DemoApp]-GloboColorSwatch",
-      "type": "",
-      "tags": [],
-      "price": 3600,
-      "price_min": 3600,
-      "price_max": 3600,
-      "available": true,
-      "price_varies": false,
-      "compare_at_price": null,
-      "compare_at_price_min": 0,
-      "compare_at_price_max": 0,
-      "compare_at_price_varies": false,
-      "variants": [
-        {
-          "id": 40119394959432,
-          "title": "White",
-          "option1": "White",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30264031150152,
-            "product_id": 6815755763784,
-            "position": 5,
-            "created_at": "2024-03-01T15:06:18+07:00",
-            "updated_at": "2024-03-01T15:06:20+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg",
-            "variant_ids": [40119394959432]
-          },
-          "available": true,
-          "name": "WomenStrappyMaxiDress-White",
-          "public_title": "White",
-          "options": ["White"],
-          "price": 3600,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631909228616,
-            "position": 5,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119394992200,
-          "title": "Black",
-          "option1": "Black",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30264031182920,
-            "product_id": 6815755763784,
-            "position": 6,
-            "created_at": "2024-03-01T15:06:18+07:00",
-            "updated_at": "2024-03-01T15:06:20+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg",
-            "variant_ids": [40119394992200]
-          },
-          "available": true,
-          "name": "WomenStrappyMaxiDress-Black",
-          "public_title": "Black",
-          "options": ["Black"],
-          "price": 3600,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631909261384,
-            "position": 6,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119395024968,
-          "title": "Blue",
-          "option1": "Blue",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30264031215688,
-            "product_id": 6815755763784,
-            "position": 7,
-            "created_at": "2024-03-01T15:06:18+07:00",
-            "updated_at": "2024-03-01T15:06:19+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg",
-            "variant_ids": [40119395024968]
-          },
-          "available": true,
-          "name": "WomenStrappyMaxiDress-Blue",
-          "public_title": "Blue",
-          "options": ["Blue"],
-          "price": 3600,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631909195848,
-            "position": 7,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119395057736,
-          "title": "LimeGreen",
-          "option1": "LimeGreen",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30264031248456,
-            "product_id": 6815755763784,
-            "position": 8,
-            "created_at": "2024-03-01T15:06:19+07:00",
-            "updated_at": "2024-03-01T15:06:20+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg",
-            "variant_ids": [40119395057736]
-          },
-          "available": true,
-          "name": "WomenStrappyMaxiDress-LimeGreen",
-          "public_title": "LimeGreen",
-          "options": ["LimeGreen"],
-          "price": 3600,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631909326920,
-            "position": 8,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        }
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_491d7500-9f5d-44ef-a11b-56e78c15e0d8.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_0837c6b0-5949-47ea-9dd9-c9f9f4821079.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_d4ccf2a4-a034-4774-a778-b98ce791d8de.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg"
-      ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg",
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": ["White", "Black", "Blue", "LimeGreen"]
-        }
-      ],
-      "url": "/products/women-strappy-maxi-dress",
-      "media": [
-        {
-          "alt": null,
-          "id": 22631910899784,
-          "position": 1,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631910932552,
-          "position": 2,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_491d7500-9f5d-44ef-a11b-56e78c15e0d8.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_491d7500-9f5d-44ef-a11b-56e78c15e0d8.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631910965320,
-          "position": 3,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_0837c6b0-5949-47ea-9dd9-c9f9f4821079.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_0837c6b0-5949-47ea-9dd9-c9f9f4821079.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631910998088,
-          "position": 4,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_d4ccf2a4-a034-4774-a778-b98ce791d8de.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_d4ccf2a4-a034-4774-a778-b98ce791d8de.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631909228616,
-          "position": 5,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631909261384,
-          "position": 6,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631909195848,
-          "position": 7,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631909326920,
-          "position": 8,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg",
-          "width": 1600
-        }
-      ],
-      "requires_selling_plan": false,
-      "selling_plan_groups": []
-    },
-    {
       "id": 6815755436104,
-      "title": "WomenCropTee",
+      "title": "Women Crop Tee",
       "handle": "women-crop-tee",
-      "description": "<p>BrownRibCropTee,inRibfabric,Unlined,CropLength,SlimFit,NoClosure,StraightHemlineandfeaturesSelfRibbedDesign</p>\n<p><strong>ModelInfo</strong></p>\n<ul>\n<li>ModeliswearingsizeS</li>\n<li>ModelChest-33\"</li>\n<li>Waist-27\"</li>\n<li>Height-5'8\"</li>\n</ul>",
+      "other_product": false,
+      "description": "<p>Brown Rib Crop Tee, in Rib fabric, Unlined, Crop Length, Slim Fit, No Closure, Straight Hemline and features Self Ribbed Design</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Chest - 33\"</li>\n<li>Waist - 27\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
       "published_at": "2024-03-01T14:36:48+07:00",
       "created_at": "2024-03-01T14:36:48+07:00",
-      "vendor": "[DemoApp]-GloboColorSwatch",
+      "vendor": "[Demo App] - Globo Color Swatch",
       "type": "",
       "tags": [],
       "price": 4400,
@@ -1440,6 +2103,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263979638856,
+            "stock": 4,
             "product_id": 6815755436104,
             "position": 5,
             "created_at": "2024-03-01T14:36:16+07:00",
@@ -1448,12 +2112,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41415-1_1600x_1023e124-108f-43d0-a432-628928890036.jpg",
-            "variant_ids": [40119394271304]
+            "variant_ids": [
+              40119394271304
+            ]
           },
           "available": true,
-          "name": "WomenCropTee-Brown",
+          "name": "Women Crop Tee - Brown",
           "public_title": "Brown",
-          "options": ["Brown"],
+          "options": [
+            "Brown"
+          ],
           "price": 4400,
           "weight": 0,
           "compare_at_price": null,
@@ -1490,6 +2158,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263979671624,
+            "stock": 12,
             "product_id": 6815755436104,
             "position": 6,
             "created_at": "2024-03-01T14:36:16+07:00",
@@ -1498,12 +2167,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41414-1_1600x_18763082-c78a-44e6-9c03-e92dfae6248c.jpg",
-            "variant_ids": [40119394304072]
+            "variant_ids": [
+              40119394304072
+            ]
           },
           "available": true,
-          "name": "WomenCropTee-Black",
+          "name": "Women Crop Tee - Black",
           "public_title": "Black",
-          "options": ["Black"],
+          "options": [
+            "Black"
+          ],
           "price": 4400,
           "weight": 0,
           "compare_at_price": null,
@@ -1531,8 +2204,8 @@
         },
         {
           "id": 40119394336840,
-          "title": "JadeGreen",
-          "option1": "JadeGreen",
+          "title": "Jade Green",
+          "option1": "Jade Green",
           "option2": null,
           "option3": null,
           "sku": "",
@@ -1540,6 +2213,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263979704392,
+            "stock": 9,
             "product_id": 6815755436104,
             "position": 7,
             "created_at": "2024-03-01T14:36:16+07:00",
@@ -1548,12 +2222,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41376-1_1600x_f3354dab-8d05-4eff-aeb0-615cd57b3ecf.jpg",
-            "variant_ids": [40119394336840]
+            "variant_ids": [
+              40119394336840
+            ]
           },
           "available": true,
-          "name": "WomenCropTee-JadeGreen",
-          "public_title": "JadeGreen",
-          "options": ["JadeGreen"],
+          "name": "Women Crop Tee - Jade Green",
+          "public_title": "Jade Green",
+          "options": [
+            "Jade Green"
+          ],
           "price": 4400,
           "weight": 0,
           "compare_at_price": null,
@@ -1581,8 +2259,8 @@
         },
         {
           "id": 40119394369608,
-          "title": "FluorescentGreen",
-          "option1": "FluorescentGreen",
+          "title": "Fluorescent Green",
+          "option1": "Fluorescent Green",
           "option2": null,
           "option3": null,
           "sku": "",
@@ -1590,6 +2268,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263979737160,
+            "stock": 11,
             "product_id": 6815755436104,
             "position": 8,
             "created_at": "2024-03-01T14:36:16+07:00",
@@ -1598,12 +2277,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFTOPS41375-1_1600x_4a168f14-25fd-42b0-99de-34a623cb6479.jpg",
-            "variant_ids": [40119394369608]
+            "variant_ids": [
+              40119394369608
+            ]
           },
           "available": true,
-          "name": "WomenCropTee-FluorescentGreen",
-          "public_title": "FluorescentGreen",
-          "options": ["FluorescentGreen"],
+          "name": "Women Crop Tee - Fluorescent Green",
+          "public_title": "Fluorescent Green",
+          "options": [
+            "Fluorescent Green"
+          ],
           "price": 4400,
           "weight": 0,
           "compare_at_price": null,
@@ -1645,7 +2328,12 @@
         {
           "name": "Color",
           "position": 1,
-          "values": ["Brown", "Black", "JadeGreen", "FluorescentGreen"]
+          "values": [
+            "Brown",
+            "Black",
+            "Jade Green",
+            "Fluorescent Green"
+          ]
         }
       ],
       "url": "/products/women-crop-tee",
@@ -1783,18 +2471,19 @@
       "selling_plan_groups": []
     },
     {
-      "id": 6815755960392,
-      "title": "WomenOversizedSweatshirt",
-      "handle": "women-oversized-sweatshirt-1",
-      "description": "<p>BeigeSequinOversizedSweatshirt,inSequinMeshfabric,Polyknit,RegularLength,ComfortFit,NoClosure,StraightHemlineandfeaturesRibDetailAtSleeves,Neck&amp;Hem</p>\n<p><strong>ModelInfo</strong></p>\n<ul>\n<li>ModeliswearingsizeS</li>\n<li>ModelChest-33\"</li>\n<li>Waist-27\"</li>\n<li>Height-5'8\"</li>\n</ul>",
-      "published_at": "2024-03-01T15:13:00+07:00",
-      "created_at": "2024-03-01T15:13:00+07:00",
-      "vendor": "[DemoApp]-GloboColorSwatch",
+      "id": 6815755763784,
+      "title": "Women Strappy Maxi Dress",
+      "handle": "women-strappy-maxi-dress",
+      "other_product": false,
+      "description": "<p>White Schiffli Strappy Maxi Dress, in Cotton Schiffli fabric, Cotton Voile, Full Length, Fit &amp; Flare, No Closure, Flared Hemline and features Smocking Detai At Back</p>\n<p><strong>Model Info<span> </span></strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Chest - 33\"</li>\n<li>Waist - 27\"</li>\n<li>Hips - 37\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
+      "published_at": "2024-03-01T15:06:39+07:00",
+      "created_at": "2024-03-01T15:06:39+07:00",
+      "vendor": "[Demo App] - Globo Color Swatch",
       "type": "",
       "tags": [],
-      "price": 2250,
-      "price_min": 2250,
-      "price_max": 2250,
+      "price": 3600,
+      "price_min": 3600,
+      "price_max": 3600,
       "available": true,
       "price_varies": false,
       "compare_at_price": null,
@@ -1803,7 +2492,62 @@
       "compare_at_price_varies": false,
       "variants": [
         {
-          "id": 40119395549256,
+          "id": 40119394959432,
+          "title": "White",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30264031150152,
+            "stock": 7,
+            "product_id": 6815755763784,
+            "position": 5,
+            "created_at": "2024-03-01T15:06:18+07:00",
+            "updated_at": "2024-03-01T15:06:20+07:00",
+            "alt": null,
+            "width": 1600,
+            "height": 2133,
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg",
+            "variant_ids": [
+              40119394959432
+            ]
+          },
+          "available": true,
+          "name": "Women Strappy Maxi Dress - White",
+          "public_title": "White",
+          "options": [
+            "White"
+          ],
+          "price": 3600,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "",
+          "featured_media": {
+            "alt": null,
+            "id": 22631909228616,
+            "position": 5,
+            "preview_image": {
+              "aspect_ratio": 0.75,
+              "height": 2133,
+              "width": 1600,
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg"
+            }
+          },
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 40119394992200,
           "title": "Black",
           "option1": "Black",
           "option2": null,
@@ -1812,85 +2556,40 @@
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 30264058544200,
-            "product_id": 6815755960392,
-            "position": 5,
-            "created_at": "2024-03-01T15:12:38+07:00",
-            "updated_at": "2024-03-01T15:12:40+07:00",
+            "id": 30264031182920,
+            "stock": 2,
+            "product_id": 6815755763784,
+            "position": 6,
+            "created_at": "2024-03-01T15:06:18+07:00",
+            "updated_at": "2024-03-01T15:06:20+07:00",
             "alt": null,
             "width": 1600,
             "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_b4346a99-ae6a-4e4f-b3de-97d319ecc544.jpg",
-            "variant_ids": [40119395549256]
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg",
+            "variant_ids": [
+              40119394992200
+            ]
           },
           "available": true,
-          "name": "Women Oversized Sweatshirt - Black",
+          "name": "Women Strappy Maxi Dress - Black",
           "public_title": "Black",
-          "options": ["Black"],
-          "price": 2250,
+          "options": [
+            "Black"
+          ],
+          "price": 3600,
           "weight": 0,
           "compare_at_price": null,
           "inventory_management": "shopify",
           "barcode": "",
           "featured_media": {
             "alt": null,
-            "id": 22631937933384,
-            "position": 5,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_b4346a99-ae6a-4e4f-b3de-97d319ecc544.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119395582024,
-          "title": "Beige",
-          "option1": "Beige",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30264058576968,
-            "product_id": 6815755960392,
-            "position": 6,
-            "created_at": "2024-03-01T15:12:38+07:00",
-            "updated_at": "2024-03-01T15:12:40+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_d608becd-249f-4141-9b78-b1031c1732f0.jpg",
-            "variant_ids": [40119395582024]
-          },
-          "available": true,
-          "name": "Women Oversized Sweatshirt - Beige",
-          "public_title": "Beige",
-          "options": ["Beige"],
-          "price": 2250,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631937900616,
+            "id": 22631909261384,
             "position": 6,
             "preview_image": {
               "aspect_ratio": 0.75,
               "height": 2133,
               "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_d608becd-249f-4141-9b78-b1031c1732f0.jpg"
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg"
             }
           },
           "quantity_rule": {
@@ -1903,44 +2602,49 @@
           "selling_plan_allocations": []
         },
         {
-          "id": 40119395614792,
-          "title": "Red",
-          "option1": "Red",
+          "id": 40119395024968,
+          "title": "Blue",
+          "option1": "Blue",
           "option2": null,
           "option3": null,
           "sku": "",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 30264058609736,
-            "product_id": 6815755960392,
+            "id": 30264031215688,
+            "stock": 1,
+            "product_id": 6815755763784,
             "position": 7,
-            "created_at": "2024-03-01T15:12:38+07:00",
-            "updated_at": "2024-03-01T15:12:39+07:00",
+            "created_at": "2024-03-01T15:06:18+07:00",
+            "updated_at": "2024-03-01T15:06:19+07:00",
             "alt": null,
             "width": 1600,
             "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_c596cd1e-88dc-450e-80bf-a7d4e2286d48.jpg",
-            "variant_ids": [40119395614792]
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg",
+            "variant_ids": [
+              40119395024968
+            ]
           },
           "available": true,
-          "name": "Women Oversized Sweatshirt - Red",
-          "public_title": "Red",
-          "options": ["Red"],
-          "price": 2250,
+          "name": "Women Strappy Maxi Dress - Blue",
+          "public_title": "Blue",
+          "options": [
+            "Blue"
+          ],
+          "price": 3600,
           "weight": 0,
           "compare_at_price": null,
           "inventory_management": "shopify",
           "barcode": "",
           "featured_media": {
             "alt": null,
-            "id": 22631937835080,
+            "id": 22631909195848,
             "position": 7,
             "preview_image": {
               "aspect_ratio": 0.75,
               "height": 2133,
               "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_c596cd1e-88dc-450e-80bf-a7d4e2286d48.jpg"
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg"
             }
           },
           "quantity_rule": {
@@ -1953,44 +2657,49 @@
           "selling_plan_allocations": []
         },
         {
-          "id": 40119395647560,
-          "title": "Pink",
-          "option1": "Pink",
+          "id": 40119395057736,
+          "title": "Lime Green",
+          "option1": "Lime Green",
           "option2": null,
           "option3": null,
           "sku": "",
           "requires_shipping": true,
           "taxable": true,
           "featured_image": {
-            "id": 30264058642504,
-            "product_id": 6815755960392,
+            "id": 30264031248456,
+            "stock": 11,
+            "product_id": 6815755763784,
             "position": 8,
-            "created_at": "2024-03-01T15:12:38+07:00",
-            "updated_at": "2024-03-01T15:12:39+07:00",
+            "created_at": "2024-03-01T15:06:19+07:00",
+            "updated_at": "2024-03-01T15:06:20+07:00",
             "alt": null,
             "width": 1600,
             "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_d2450f26-c9ae-4a48-a1ed-31de11f21fbf.jpg",
-            "variant_ids": [40119395647560]
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg",
+            "variant_ids": [
+              40119395057736
+            ]
           },
           "available": true,
-          "name": "Women Oversized Sweatshirt - Pink",
-          "public_title": "Pink",
-          "options": ["Pink"],
-          "price": 2250,
+          "name": "Women Strappy Maxi Dress - Lime Green",
+          "public_title": "Lime Green",
+          "options": [
+            "Lime Green"
+          ],
+          "price": 3600,
           "weight": 0,
           "compare_at_price": null,
           "inventory_management": "shopify",
           "barcode": "",
           "featured_media": {
             "alt": null,
-            "id": 22631937867848,
+            "id": 22631909326920,
             "position": 8,
             "preview_image": {
               "aspect_ratio": 0.75,
               "height": 2133,
               "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_d2450f26-c9ae-4a48-a1ed-31de11f21fbf.jpg"
+              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg"
             }
           },
           "quantity_rule": {
@@ -2004,151 +2713,156 @@
         }
       ],
       "images": [
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_cfeb82a0-e601-403b-aaaf-007238603983.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_29ab19a5-7da6-486d-8770-1972759547ff.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_febe81d4-3f07-4ce0-9ea3-428d83e807d8.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_58fcf92f-0541-4eef-ae21-f84670aed1ef.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_b4346a99-ae6a-4e4f-b3de-97d319ecc544.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_d608becd-249f-4141-9b78-b1031c1732f0.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_c596cd1e-88dc-450e-80bf-a7d4e2286d48.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_d2450f26-c9ae-4a48-a1ed-31de11f21fbf.jpg"
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_491d7500-9f5d-44ef-a11b-56e78c15e0d8.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_0837c6b0-5949-47ea-9dd9-c9f9f4821079.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_d4ccf2a4-a034-4774-a778-b98ce791d8de.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg",
+        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg"
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_cfeb82a0-e601-403b-aaaf-007238603983.jpg",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg",
       "options": [
         {
           "name": "Color",
           "position": 1,
-          "values": ["Black", "Beige", "Red", "Pink"]
+          "values": [
+            "White",
+            "Black",
+            "Blue",
+            "Lime Green"
+          ]
         }
       ],
-      "url": "/products/women-oversized-sweatshirt-1",
+      "url": "/products/women-strappy-maxi-dress",
       "media": [
         {
           "alt": null,
-          "id": 22631938392136,
+          "id": 22631910899784,
           "position": 1,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_cfeb82a0-e601-403b-aaaf-007238603983.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_cfeb82a0-e601-403b-aaaf-007238603983.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_04f74cb6-c11c-4ed6-af81-e2a1bf41a294.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631938424904,
+          "id": 22631910932552,
           "position": 2,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_29ab19a5-7da6-486d-8770-1972759547ff.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_491d7500-9f5d-44ef-a11b-56e78c15e0d8.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_29ab19a5-7da6-486d-8770-1972759547ff.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_491d7500-9f5d-44ef-a11b-56e78c15e0d8.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631938457672,
+          "id": 22631910965320,
           "position": 3,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_febe81d4-3f07-4ce0-9ea3-428d83e807d8.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_0837c6b0-5949-47ea-9dd9-c9f9f4821079.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_febe81d4-3f07-4ce0-9ea3-428d83e807d8.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_0837c6b0-5949-47ea-9dd9-c9f9f4821079.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631938490440,
+          "id": 22631910998088,
           "position": 4,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_58fcf92f-0541-4eef-ae21-f84670aed1ef.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_d4ccf2a4-a034-4774-a778-b98ce791d8de.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_58fcf92f-0541-4eef-ae21-f84670aed1ef.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_d4ccf2a4-a034-4774-a778-b98ce791d8de.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631937933384,
+          "id": 22631909228616,
           "position": 5,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_b4346a99-ae6a-4e4f-b3de-97d319ecc544.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7546-1_1600x_b4346a99-ae6a-4e4f-b3de-97d319ecc544.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11302-1_1600x_2d5a0046-115b-4452-a267-ae73b9db8323.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631937900616,
+          "id": 22631909261384,
           "position": 6,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_d608becd-249f-4141-9b78-b1031c1732f0.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7544-1_1600x_d608becd-249f-4141-9b78-b1031c1732f0.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11333-1__1600x_6d0c4ff3-5065-44fa-a745-8298c55d21aa.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631937835080,
+          "id": 22631909195848,
           "position": 7,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_c596cd1e-88dc-450e-80bf-a7d4e2286d48.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7545-1_1600x_c596cd1e-88dc-450e-80bf-a7d4e2286d48.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11334-1__1600x_5c0da20f-a957-43c2-b9f6-a0e4a75b06f5.jpg",
           "width": 1600
         },
         {
           "alt": null,
-          "id": 22631937867848,
+          "id": 22631909326920,
           "position": 8,
           "preview_image": {
             "aspect_ratio": 0.75,
             "height": 2133,
             "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_d2450f26-c9ae-4a48-a1ed-31de11f21fbf.jpg"
+            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg"
           },
           "aspect_ratio": 0.75,
           "height": 2133,
           "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSWSH7547-1_1600x_d2450f26-c9ae-4a48-a1ed-31de11f21fbf.jpg",
+          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFDRSS11301-1_1600x_bdfacfd2-91d0-4f93-aa70-4f290790b35c.jpg",
           "width": 1600
         }
       ],
@@ -2159,6 +2873,7 @@
       "id": 6815754911816,
       "title": "Women Ruched Midi Skirt",
       "handle": "women-ruched-midi-skirt",
+      "other_product": true,
       "description": "<p>Purple Rib Front Ruched Midi Skirt, in Rib fabric, Unlined, Below Knee, Slim Fit, Slip-On, Straight Hemline and features Slit At Back</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Waist - 27\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
       "published_at": "2024-03-01T14:02:38+07:00",
       "created_at": "2024-03-01T14:02:38+07:00",
@@ -2186,6 +2901,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263934550088,
+            "stock": 3,
             "product_id": 6815754911816,
             "position": 5,
             "created_at": "2024-03-01T14:02:14+07:00",
@@ -2194,12 +2910,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30335-1_1600x_7aa2d8c8-197f-4306-b262-3c3d48d0f8aa.jpg",
-            "variant_ids": [40119392108616]
+            "variant_ids": [
+              40119392108616
+            ]
           },
           "available": true,
           "name": "Women Ruched Midi Skirt - Green",
           "public_title": "Green",
-          "options": ["Green"],
+          "options": [
+            "Green"
+          ],
           "price": 2400,
           "weight": 0,
           "compare_at_price": null,
@@ -2236,6 +2956,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263934582856,
+            "stock": 7,
             "product_id": 6815754911816,
             "position": 6,
             "created_at": "2024-03-01T14:02:14+07:00",
@@ -2244,12 +2965,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30322-1_1600x_39d7a20b-e148-40fb-a423-0aab002f0e41.jpg",
-            "variant_ids": [40119392141384]
+            "variant_ids": [
+              40119392141384
+            ]
           },
           "available": true,
           "name": "Women Ruched Midi Skirt - Turquoise",
           "public_title": "Turquoise",
-          "options": ["Turquoise"],
+          "options": [
+            "Turquoise"
+          ],
           "price": 2400,
           "weight": 0,
           "compare_at_price": null,
@@ -2286,6 +3011,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263934615624,
+            "stock": 6,
             "product_id": 6815754911816,
             "position": 7,
             "created_at": "2024-03-01T14:02:14+07:00",
@@ -2294,12 +3020,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30320-1_1600x_953bb1bb-1fdb-4493-9771-bfe397f3d23d.jpg",
-            "variant_ids": [40119392174152]
+            "variant_ids": [
+              40119392174152
+            ]
           },
           "available": true,
           "name": "Women Ruched Midi Skirt - Purple",
           "public_title": "Purple",
-          "options": ["Purple"],
+          "options": [
+            "Purple"
+          ],
           "price": 2400,
           "weight": 0,
           "compare_at_price": null,
@@ -2336,6 +3066,7 @@
           "taxable": true,
           "featured_image": {
             "id": 30263934648392,
+            "stock": 2,
             "product_id": 6815754911816,
             "position": 8,
             "created_at": "2024-03-01T14:02:14+07:00",
@@ -2344,12 +3075,16 @@
             "width": 1600,
             "height": 2133,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30321-1_1600x_b8f75a25-8d1f-411e-9f99-3626653d8646.jpg",
-            "variant_ids": [40119392206920]
+            "variant_ids": [
+              40119392206920
+            ]
           },
           "available": true,
           "name": "Women Ruched Midi Skirt - Black",
           "public_title": "Black",
-          "options": ["Black"],
+          "options": [
+            "Black"
+          ],
           "price": 2400,
           "weight": 0,
           "compare_at_price": null,
@@ -2391,7 +3126,12 @@
         {
           "name": "Color",
           "position": 1,
-          "values": ["Green", "Turquoise", "Purple", "Black"]
+          "values": [
+            "Green",
+            "Turquoise",
+            "Purple",
+            "Black"
+          ]
         }
       ],
       "url": "/products/women-ruched-midi-skirt",
@@ -2531,6 +3271,7 @@
     {
       "id": 6811811086408,
       "title": "Faja Corset Modeladora Victoriana con 26 Varillas",
+      "other_product": false,
       "handle": "faja-corset-victoriano-con-26-varillas-de-acero-modeladora",
       "description": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/CopyofCopyofPaymentLogos_2_480x480.png\"></p>\n<p data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/Untitled_design_1_f36d37bf-11a3-436a-b2df-fe21832acf2a_480x480.png\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/Untitled_design_1_f36d37bf-11a3-436a-b2df-fe21832acf2a_480x480.png\"> </p>\n<ul>\n<li>\n<strong>Moldea</strong><span> </span>tu cintura con alta compresión, sus 26 varillas evitan que se enrolle y que se doble al sentarse o al hacer cualquier actividad</li>\n<li>Ideal para<span> </span><strong>reducir tallas</strong>\n</li>\n<li>\n<strong>Reductor y moldeador</strong><span> </span>de cintura úsala de 2-6 hrs por día para llegar a tus metas</li>\n<li>Corrige la <strong>postura</strong>\n</li>\n<li>\n<strong>Ideal para post parto</strong><span> </span>para recuperar tu figura y darte soporte en área abdominal</li>\n<li>\n<meta charset=\"utf-8\"> <span class=\"JsGRdQ\"><strong>Materiales:</strong><span> </span>Algodón, Latex, Spandex</span>\n</li>\n</ul>",
       "published_at": "2024-12-12T14:59:25+07:00",
@@ -2561,7 +3302,9 @@
           "available": true,
           "name": "Faja Corset Modeladora Victoriana con 26 Varillas",
           "public_title": null,
-          "options": ["Default Title"],
+          "options": [
+            "Default Title"
+          ],
           "price": 96900,
           "weight": 0,
           "compare_at_price": 124900,
@@ -2592,7 +3335,9 @@
         {
           "name": "Title",
           "position": 1,
-          "values": ["Default Title"]
+          "values": [
+            "Default Title"
+          ]
         }
       ],
       "url": "/products/faja-corset-victoriano-con-26-varillas-de-acero-modeladora",
@@ -2731,6 +3476,7 @@
     },
     {
       "id": 6811811020872,
+      "other_product": false,
       "title": "Oferta - 1 x Chaleco Reloj de Arena - Negro + 1 x Termo digital de regalo",
       "handle": "oferta-chaleco-reloj-de-arena-latex-expuesto-estilo-colombiano-negro",
       "description": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/CopyofCopyofPaymentLogos_2_480x480.png\"></p>\n<p data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/Untitled_design_1_f36d37bf-11a3-436a-b2df-fe21832acf2a_480x480.png\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/Untitled_design_1_f36d37bf-11a3-436a-b2df-fe21832acf2a_480x480.png\"> </p>\n<ul>\n<li><span class=\"JsGRdQ\">Chaleco colombiano con cuatro hileras de broches y 30 cm al frente</span></li>\n<li><span class=\"JsGRdQ\">Super compresión y ajuste</span></li>\n<li><span class=\"JsGRdQ\">Tirante ajustable</span></li>\n<li><span class=\"JsGRdQ\">Ayuda a la postura</span></li>\n<li><span class=\"JsGRdQ\">Reduce dolores de espalda</span></li>\n<li><span class=\"JsGRdQ\">Úsalo para el gymnasio o para tu día a día</span></li>\n</ul>\n<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/Screen_Shot_2022-08-16_at_11.14.36_480x480.png\"></p>",
@@ -2762,7 +3508,9 @@
           "available": true,
           "name": "Oferta - 1 x Chaleco Reloj de Arena - Negro + 1 x Termo digital de regalo",
           "public_title": null,
-          "options": ["Default Title"],
+          "options": [
+            "Default Title"
+          ],
           "price": 69900,
           "weight": 0,
           "compare_at_price": 149900,
@@ -2787,7 +3535,9 @@
         {
           "name": "Title",
           "position": 1,
-          "values": ["Default Title"]
+          "values": [
+            "Default Title"
+          ]
         }
       ],
       "url": "/products/oferta-chaleco-reloj-de-arena-latex-expuesto-estilo-colombiano-negro",
@@ -2830,6 +3580,7 @@
     },
     {
       "id": 6811810660424,
+      "other_product": false,
       "title": "CONJUNTO DE FALDA SHORT Y BLUSA",
       "handle": "blusa-manga-larga-falda-short-nudo",
       "description": "<div><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/CopyofCopyofUntitledDesign_1_480x480.png\"></div>\n<div>\n<ul data-mce-fragment=\"1\">\n<li>Falda<b>/short lickra gruesa</b>\n</li>\n<li>\n<b>Blusa corta manga larga con</b><b> copas removibles</b>\n</li>\n<li>\n<b>Lycra gruesa que no transparenta</b><br>\n</li>\n<li><b>Super comodo y ligero ya sea para entrenar o para vestir </b></li>\n<li><b>Adquierelo en conjunto o por separado</b></li>\n</ul>\n<p> </p>\n<p> </p>\n</div>",
@@ -2837,7 +3588,10 @@
       "created_at": "2024-02-19T10:43:01+07:00",
       "vendor": "PRENDAS DEPORTIVAS",
       "type": "",
-      "tags": ["multicolor", "ropa"],
+      "tags": [
+        "multicolor",
+        "ropa"
+      ],
       "price": 54900,
       "price_min": 54900,
       "price_max": 54900,
@@ -2859,6 +3613,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236789997640,
+            "stock": 0,
             "product_id": 6811810660424,
             "position": 1,
             "created_at": "2024-02-19T10:43:01+07:00",
@@ -2867,12 +3622,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/Untitleddesign_3_c4db1ce8-bc87-4777-beab-1dab773b499d.png",
-            "variant_ids": [40102661685320]
+            "variant_ids": [
+              40102661685320
+            ]
           },
           "available": true,
           "name": "CONJUNTO DE FALDA SHORT Y BLUSA - Unitalla (5-7-9) / negro",
           "public_title": "Unitalla (5-7-9) / negro",
-          "options": ["Unitalla (5-7-9)", "negro"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "negro"
+          ],
           "price": 54900,
           "weight": 0,
           "compare_at_price": null,
@@ -2909,6 +3669,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236790063176,
+            "stock": 0,
             "product_id": 6811810660424,
             "position": 3,
             "created_at": "2024-02-19T10:43:01+07:00",
@@ -2917,12 +3678,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/Untitleddesign_6_66ba030a-ac5f-44bf-9715-a64aec2d6342.png",
-            "variant_ids": [40102661718088]
+            "variant_ids": [
+              40102661718088
+            ]
           },
           "available": false,
           "name": "CONJUNTO DE FALDA SHORT Y BLUSA - Unitalla (5-7-9) / blanco",
           "public_title": "Unitalla (5-7-9) / blanco",
-          "options": ["Unitalla (5-7-9)", "blanco"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "blanco"
+          ],
           "price": 54900,
           "weight": 0,
           "compare_at_price": null,
@@ -2959,6 +3725,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236790194248,
+            "stock": 3,
             "product_id": 6811810660424,
             "position": 7,
             "created_at": "2024-02-19T10:43:01+07:00",
@@ -2967,12 +3734,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/Untitleddesign_0202eb19-31c1-458e-883a-3f0dfda6b660.png",
-            "variant_ids": [40102661750856]
+            "variant_ids": [
+              40102661750856
+            ]
           },
           "available": false,
           "name": "CONJUNTO DE FALDA SHORT Y BLUSA - Unitalla (5-7-9) / palo de rosa",
           "public_title": "Unitalla (5-7-9) / palo de rosa",
-          "options": ["Unitalla (5-7-9)", "palo de rosa"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "palo de rosa"
+          ],
           "price": 54900,
           "weight": 0,
           "compare_at_price": null,
@@ -3010,6 +3782,7 @@
           "featured_image": {
             "id": 30236790128712,
             "product_id": 6811810660424,
+            "stock": 1,
             "position": 5,
             "created_at": "2024-02-19T10:43:01+07:00",
             "updated_at": "2024-02-19T10:43:01+07:00",
@@ -3017,12 +3790,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/Untitleddesign_7_a7e1209e-074b-4bb1-b70d-be07a8aeaf64.png",
-            "variant_ids": [40102661783624]
+            "variant_ids": [
+              40102661783624
+            ]
           },
           "available": false,
           "name": "CONJUNTO DE FALDA SHORT Y BLUSA - Unitalla (5-7-9) / verde militar",
           "public_title": "Unitalla (5-7-9) / verde militar",
-          "options": ["Unitalla (5-7-9)", "verde militar"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "verde militar"
+          ],
           "price": 54900,
           "weight": 0,
           "compare_at_price": null,
@@ -3064,12 +3842,19 @@
         {
           "name": "Talla",
           "position": 1,
-          "values": ["Unitalla (5-7-9)"]
+          "values": [
+            "Unitalla (5-7-9)"
+          ]
         },
         {
           "name": "Color",
           "position": 2,
-          "values": ["negro", "blanco", "palo de rosa", "verde militar"]
+          "values": [
+            "negro",
+            "blanco",
+            "palo de rosa",
+            "verde militar"
+          ]
         }
       ],
       "url": "/products/blusa-manga-larga-falda-short-nudo",
@@ -3210,12 +3995,16 @@
       "id": 6811809480776,
       "title": "CHAMARRA CON CIERRE",
       "handle": "chamarra-con-cierre-3",
+      "other_product": false,
       "description": "<meta charset=\"utf-8\">\n<div><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0648/1362/9698/files/CopyofCopyofUntitledDesign_1_480x480.png\"></div>\n<div>\n<ul data-mce-fragment=\"1\">\n<li><b>Chamarra corta con cierre</b></li>\n<li><b>Lickra gruesa que no transparenta</b></li>\n<li>\n<strong>Super comoda por su diseño </strong><br>\n</li>\n</ul>\n</div>",
       "published_at": "2024-02-19T10:38:06+07:00",
       "created_at": "2024-02-19T10:38:26+07:00",
       "vendor": "PRENDAS DEPORTIVAS",
       "type": "",
-      "tags": ["multicolor", "ropa"],
+      "tags": [
+        "multicolor",
+        "ropa"
+      ],
       "price": 34900,
       "price_min": 34900,
       "price_max": 34900,
@@ -3237,6 +4026,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236767846472,
+            "stock": 7,
             "product_id": 6811809480776,
             "position": 7,
             "created_at": "2024-02-19T10:38:26+07:00",
@@ -3245,12 +4035,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/CopyofCopyofPlantillagris_4_80f42848-cf2f-4889-bf13-164ae1e0db63.png",
-            "variant_ids": [40102657163336]
+            "variant_ids": [
+              40102657163336
+            ]
           },
           "available": true,
           "name": "CHAMARRA CON CIERRE - Unitalla (5-7-9) / azul rey",
           "public_title": "Unitalla (5-7-9) / azul rey",
-          "options": ["Unitalla (5-7-9)", "azul rey"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "azul rey"
+          ],
           "price": 34900,
           "weight": 0,
           "compare_at_price": 42900,
@@ -3287,6 +4082,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236767715400,
+            "stock": 12,
             "product_id": 6811809480776,
             "position": 3,
             "created_at": "2024-02-19T10:38:26+07:00",
@@ -3295,12 +4091,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/CopyofCopyofPlantillagris_5_95b06fe5-aba8-4951-9b99-8717eba2834f.png",
-            "variant_ids": [40102657196104]
+            "variant_ids": [
+              40102657196104
+            ]
           },
           "available": true,
           "name": "CHAMARRA CON CIERRE - Unitalla (5-7-9) / blanco",
           "public_title": "Unitalla (5-7-9) / blanco",
-          "options": ["Unitalla (5-7-9)", "blanco"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "blanco"
+          ],
           "price": 34900,
           "weight": 0,
           "compare_at_price": 42900,
@@ -3337,6 +4138,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236767649864,
+            "stock": 4,
             "product_id": 6811809480776,
             "position": 1,
             "created_at": "2024-02-19T10:38:26+07:00",
@@ -3345,12 +4147,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/CopyofCopyofPlantillagris_6_58e5b7df-a087-4822-bb44-47a6279fd5e5.png",
-            "variant_ids": [40102657228872]
+            "variant_ids": [
+              40102657228872
+            ]
           },
           "available": true,
           "name": "CHAMARRA CON CIERRE - Unitalla (5-7-9) / negro",
           "public_title": "Unitalla (5-7-9) / negro",
-          "options": ["Unitalla (5-7-9)", "negro"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "negro"
+          ],
           "price": 34900,
           "weight": 0,
           "compare_at_price": 42900,
@@ -3387,6 +4194,7 @@
           "taxable": false,
           "featured_image": {
             "id": 30236767780936,
+            "stock": 5,
             "product_id": 6811809480776,
             "position": 5,
             "created_at": "2024-02-19T10:38:26+07:00",
@@ -3395,12 +4203,17 @@
             "width": 1000,
             "height": 1300,
             "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/CopyofCopyofPlantillagris_7_70a505b6-2b11-4851-bc45-47b7e01353cb.png",
-            "variant_ids": [40102657261640]
+            "variant_ids": [
+              40102657261640
+            ]
           },
           "available": true,
           "name": "CHAMARRA CON CIERRE - Unitalla (5-7-9) / azul marino",
           "public_title": "Unitalla (5-7-9) / azul marino",
-          "options": ["Unitalla (5-7-9)", "azul marino"],
+          "options": [
+            "Unitalla (5-7-9)",
+            "azul marino"
+          ],
           "price": 34900,
           "weight": 0,
           "compare_at_price": 42900,
@@ -3442,12 +4255,19 @@
         {
           "name": "Talla",
           "position": 1,
-          "values": ["Unitalla (5-7-9)"]
+          "values": [
+            "Unitalla (5-7-9)"
+          ]
         },
         {
           "name": "Color",
           "position": 2,
-          "values": ["azul rey", "blanco", "negro", "azul marino"]
+          "values": [
+            "azul rey",
+            "blanco",
+            "negro",
+            "azul marino"
+          ]
         }
       ],
       "url": "/products/chamarra-con-cierre-3",
@@ -3579,379 +4399,6 @@
           "media_type": "image",
           "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/products/CopyofCopyofPlantillagris_1_12a07792-9b6a-4ff7-966d-04f0414622f9.png",
           "width": 1000
-        }
-      ],
-      "requires_selling_plan": false,
-      "selling_plan_groups": []
-    },
-    {
-      "id": 6815754551368,
-      "title": "Women A-Line Skirt",
-      "handle": "women-a-line-skirt",
-      "description": "<p>Beige Rib Pencil Skirt, in Rib fabric, Unlined, Regular Length, Slim Fit, Elasticated Waist, Straight Hemline and features Slit Detail At Side</p>\n<p><strong>Model Info</strong></p>\n<ul>\n<li>Model is wearing size S</li>\n<li>Model Waist - 27\"</li>\n<li>Hips - 37\"</li>\n<li>Height - 5'8\"</li>\n</ul>",
-      "published_at": "2024-03-01T13:45:24+07:00",
-      "created_at": "2024-03-01T13:45:24+07:00",
-      "vendor": "[Demo App] - Globo Color Swatch",
-      "type": "",
-      "tags": [],
-      "price": 4000,
-      "price_min": 4000,
-      "price_max": 4000,
-      "available": true,
-      "price_varies": false,
-      "compare_at_price": null,
-      "compare_at_price_min": 0,
-      "compare_at_price_max": 0,
-      "compare_at_price_varies": false,
-      "variants": [
-        {
-          "id": 40119391191112,
-          "title": "Orange",
-          "option1": "Orange",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30263928881224,
-            "product_id": 6815754551368,
-            "position": 5,
-            "created_at": "2024-03-01T13:44:46+07:00",
-            "updated_at": "2024-03-01T13:44:47+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg",
-            "variant_ids": [40119391191112]
-          },
-          "available": true,
-          "name": "Women A-Line Skirt - Orange",
-          "public_title": "Orange",
-          "options": ["Orange"],
-          "price": 4000,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631805517896,
-            "position": 5,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119391223880,
-          "title": "Beige",
-          "option1": "Beige",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30263928913992,
-            "product_id": 6815754551368,
-            "position": 6,
-            "created_at": "2024-03-01T13:44:45+07:00",
-            "updated_at": "2024-03-01T13:44:47+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg",
-            "variant_ids": [40119391223880]
-          },
-          "available": true,
-          "name": "Women A-Line Skirt - Beige",
-          "public_title": "Beige",
-          "options": ["Beige"],
-          "price": 4000,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631805419592,
-            "position": 6,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119391256648,
-          "title": "Pink",
-          "option1": "Pink",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30263928946760,
-            "product_id": 6815754551368,
-            "position": 7,
-            "created_at": "2024-03-01T13:44:45+07:00",
-            "updated_at": "2024-03-01T13:44:47+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg",
-            "variant_ids": [40119391256648]
-          },
-          "available": true,
-          "name": "Women A-Line Skirt - Pink",
-          "public_title": "Pink",
-          "options": ["Pink"],
-          "price": 4000,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631805485128,
-            "position": 7,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        },
-        {
-          "id": 40119391289416,
-          "title": "Green",
-          "option1": "Green",
-          "option2": null,
-          "option3": null,
-          "sku": "",
-          "requires_shipping": true,
-          "taxable": true,
-          "featured_image": {
-            "id": 30263928979528,
-            "product_id": 6815754551368,
-            "position": 8,
-            "created_at": "2024-03-01T13:44:45+07:00",
-            "updated_at": "2024-03-01T13:44:46+07:00",
-            "alt": null,
-            "width": 1600,
-            "height": 2133,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg",
-            "variant_ids": [40119391289416]
-          },
-          "available": true,
-          "name": "Women A-Line Skirt - Green",
-          "public_title": "Green",
-          "options": ["Green"],
-          "price": 4000,
-          "weight": 0,
-          "compare_at_price": null,
-          "inventory_management": "shopify",
-          "barcode": "",
-          "featured_media": {
-            "alt": null,
-            "id": 22631805452360,
-            "position": 8,
-            "preview_image": {
-              "aspect_ratio": 0.75,
-              "height": 2133,
-              "width": 1600,
-              "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg"
-            }
-          },
-          "quantity_rule": {
-            "min": 1,
-            "max": null,
-            "increment": 1
-          },
-          "quantity_price_breaks": [],
-          "requires_selling_plan": false,
-          "selling_plan_allocations": []
-        }
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_7ae1d874-71e6-48a5-b9c6-6c6d35429c5c.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_57ae8466-5d6c-43d7-b7ba-d021f2967362.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_bce3730e-e155-480b-b832-f28438634529.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg",
-        "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg"
-      ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg",
-      "options": [
-        {
-          "name": "Color",
-          "position": 1,
-          "values": ["Orange", "Beige", "Pink", "Green"]
-        }
-      ],
-      "url": "/products/women-a-line-skirt",
-      "media": [
-        {
-          "alt": null,
-          "id": 22631806009416,
-          "position": 1,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_e5353919-3cef-433a-abba-f270beb905cf.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631806042184,
-          "position": 2,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_7ae1d874-71e6-48a5-b9c6-6c6d35429c5c.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_7ae1d874-71e6-48a5-b9c6-6c6d35429c5c.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631806074952,
-          "position": 3,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_57ae8466-5d6c-43d7-b7ba-d021f2967362.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_57ae8466-5d6c-43d7-b7ba-d021f2967362.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631806107720,
-          "position": 4,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_bce3730e-e155-480b-b832-f28438634529.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_bce3730e-e155-480b-b832-f28438634529.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631805517896,
-          "position": 5,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30395-1_1600x_c17df990-ae5c-40c1-bbea-eadea71f2c79.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631805419592,
-          "position": 6,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30394-1_1600x_14cd04b2-8e5d-4075-bea6-c14aa9d1de33.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631805485128,
-          "position": 7,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30393-1_1600x_06b65853-6f8b-47ff-9e3e-70b0e2dbe763.jpg",
-          "width": 1600
-        },
-        {
-          "alt": null,
-          "id": 22631805452360,
-          "position": 8,
-          "preview_image": {
-            "aspect_ratio": 0.75,
-            "height": 2133,
-            "width": 1600,
-            "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg"
-          },
-          "aspect_ratio": 0.75,
-          "height": 2133,
-          "media_type": "image",
-          "src": "https://cdn.shopify.com/s/files/1/0251/3931/4760/files/SFSKRT30392-1_1600x_2163826f-24bd-4944-9fd1-3974109e2f4f.jpg",
-          "width": 1600
         }
       ],
       "requires_selling_plan": false,

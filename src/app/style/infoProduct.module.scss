@@ -1,0 +1,16 @@
+.info_product {
+    width: 40%;
+    height: max-content;
+    .title_info_product {
+        color: rgb(100, 99, 99);
+    }
+    .name_product {
+        
+        font-size: 35px;
+    }
+    .price_product {
+        display: block;
+        font-size: 20px;
+        margin: 10px 0;
+    }
+}

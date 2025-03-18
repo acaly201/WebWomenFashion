@@ -9,7 +9,7 @@ import Footer from "../component/footer/footer";
 import Header from "../component/header/header";
 import DemoGuide from "../component/demoGuide/demoGuide";
 import { StoreProvider } from "../StoreProvider";
-import TitleUpdater from "../../setting/TitleUpdater";
+import TitleUpdater from "./TitleUpdater";
 const assistant = Assistant({
   variable: "--font-sans-serif",
   subsets: ["latin"],

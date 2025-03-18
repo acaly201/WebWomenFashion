@@ -3,7 +3,7 @@ import { IoIosSearch } from "react-icons/io";
 import { CiUser } from "react-icons/ci";
 import { IoBagHandleOutline } from "react-icons/io5";
 import { SlArrowDown } from "react-icons/sl";
-import styles from "../style/header.module.scss";
+import styles from "@/app/style/header.module.scss";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 function Header() {
@@ -25,7 +25,7 @@ function Header() {
             <Link href="/">{t("home")}</Link>
           </li>
           <li>
-            <Link href="/catalog">{t("catalog")}</Link>
+            <Link href={{ pathname: "/catalog" as "/pathnames" }}>{t("catalog")}</Link>
           </li>
           <li>
             {t("demo")}

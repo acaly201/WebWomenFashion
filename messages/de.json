@@ -3,29 +3,29 @@
     "home": "Heim",
     "catalog": "Katalog",
     "demo": "Demo",
-    "more": "WeitereShopify-AppsvonGlobo"
+    "more": "Weitere Shopify-Apps von Globo"
   },
   "footer": {
-    "quick": "SchnelleLinks",
-    "form": "Creadordeformularios",
-    "smart": "IntelligenterProduktfilterundSuche",
+    "quick": "Schnelle Links",
+    "form": "Creadorde formularios",
+    "smart": "Intelligenter Produktfilter und Suche",
     "pre": "Vorbestellung",
     "mega": "Mega-Menü",
-    "request": "FordernSieeinAngebotan",
+    "request": "Fordern Sieein Angebot an",
     "product": "Produktoptionen",
     "language": "Sprache"
   },
   "homePage": {
-    "title1": "SowählenSieIhreShopify-VariantenmitGLOColorSwatch,VariantImageaus",
-    "title2": "DynamischeSammlungsproben",
-    "title3": "UnverzichtbareAnwendungfürIhrGeschäft",
-    "smart": "IntelligenterProduktfilterundSuche",
-    "often": "(OftmitGloboColorSwatchinstalliert)",
-    "help": "HelfenSieIhremKäufer,jedesProduktinnerhalbvonSekundenzufinden,indemSieerweiterteFilter-undSuchfunktionennutzen.",
-    "custom": "-BenutzerdefinierteFilterbäume/FiltermenüfürverschiedeneSammlungen",
-    "dynamic": "-DynamischeFilteroptionenausKollektionen,Anbietern,Produkttypen,Varianten(z.B.Größe,Farbe),Bewertung,Preis,Ausverkauf%,SKU,Tags,Metafelderusw",
-    "smartSearch": "-DieintelligenteSuchleistehilftKäufern,genaudaszufinden,wassiesuchen",
-    "try": "JetztKOSTENLOStesten"
+    "title1": "Sowählen Sie Ihre Shopify Variantenmit GLO Color Swatch,Variant Imageaus",
+    "title2": "Dynamische Sammlungsproben",
+    "title3": "Unverzichtbare Anwendung für Ihr Geschäft",
+    "smart": "Intelligenter Produkt filter und Suche",
+    "often": "(Oftmit Globo Color Swatch install iert)",
+    "help": "Helfen Sie Ihrem Käufer,jedes Produktinnerha lbvon Sekundenzu finden,indem Sieerweiterte Filter-und Suchfunk tionennutzen.",
+    "custom": "-Benutzerdefinierte Filterbäume/Filtermenü für verschiedene Sammlungen",
+    "dynamic": "-Dynamische Filteroptionen aus Kollektionen, Anbietern, Produkttypen, Varianten(z.B.Größe,Farbe), Bewertung, Preis, Ausverkauf%, SKU, Tags, Metafelderusw",
+    "smartSearch": "-Die intelligente Suchleiste hilf Käufern,genau das zufinden,was sies uchen",
+    "try": "Jetzt KOSTENLOS testen"
   },
   "catalogPage": {
     "title": "Alle",
