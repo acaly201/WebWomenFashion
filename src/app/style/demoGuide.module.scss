@@ -1,5 +1,6 @@
 .button_demo_guide {
     position: fixed;
+    z-index: 1001;
     bottom: 45px;
     right: 45px;
     width: 60px;
@@ -32,7 +33,9 @@
 }
 .box_demo_guide {
     position: fixed;
+    z-index: 1001;
     width: 350px;
+    z-index: 1000;
     height: max-content;
     right: 30px;
     display: block;

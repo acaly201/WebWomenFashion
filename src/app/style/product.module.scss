@@ -1,7 +1,14 @@
 .product {
-    padding: 50px 180px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-   
+  padding: 50px 180px;
+  width: 100%;
+  height: max-content;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  overflow: visible;
+  .info_home_page {
+    height: max-content;
+    padding: 50px 0;
+  }
 }
+

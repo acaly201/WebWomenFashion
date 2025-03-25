@@ -2,9 +2,9 @@ import styles from "@/app/style/infoProduct.module.scss";
 import SelectImg from "./selectImg";
 import ByProduct from "./buyProduct/buyProduct";
 import { formatCurrency } from "@/setting/formatNumber";
-export default function InfoProduct(props: { data: any }) {
+export default function InfoProduct(props:any) {
   const { data } = props;
-  return (
+  return ( 
     <div className={styles.info_product}>
       <h5 className={styles.title_info_product}>
         [Demo App] - Globo Color Swatch

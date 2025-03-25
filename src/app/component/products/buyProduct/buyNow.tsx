@@ -1,8 +1,16 @@
-"use client"
+"use client";
 import { formatCurrency } from "@/setting/formatNumber";
 import styles from "@/app/style/buyProduct.module.scss";
 import clsx from "clsx";
-export default function BuyNow({ handleClickSelect, selectBuyNow, data }: any) {
+export default function BuyNow({
+  handleClickSelect,
+  selectBuyNow,
+  data,
+}: {
+  handleClickSelect:(e:number)=>void;
+  selectBuyNow:number;
+  data:any;
+}) {
   return (
     <div className={clsx(styles.box_buy_now)}>
       <p style={{ width: "100%", fontWeight: 700 }}>Buy now</p>

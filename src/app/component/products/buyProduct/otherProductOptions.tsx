@@ -1,12 +1,62 @@
-"use client"
+"use client";
 import { formatCurrency } from "@/setting/formatNumber";
 import styles from "@/app/style/buyProduct.module.scss";
 import clsx from "clsx";
 import Image from "next/image";
 import { useAppDispatch } from "@/redux/hooks";
 import { showImg2 } from "@/redux/features/apiProduct/reduceProduct";
-export default function OtherProductOptions({dataApi,dataFrequentlyBoughtTogether,goToInfoProduct}:any) {
-    const dispatch = useAppDispatch()
+import { useCallback } from "react";
+import { Link } from "@/i18n/navigation";
+export default function OtherProductOptions({
+  dataApi,
+  dataFrequentlyBoughtTogether,
+  goToInfoProduct,
+}: any) {
+  const dispatch = useAppDispatch();
+  const handleAddToCart = useCallback(() => {
+    const storedData = JSON.parse(localStorage.getItem("cart") ?? "[]");
+    const products = dataApi
+      .filter((value: any) => value.other_product == true)
+      .map((item: any) => ({
+        id: item.id,
+        name: item.title,
+        handle: item.handle,
+        price: item.price,
+        totalPrice: item.price,
+        quantity: 1,
+        color: dataFrequentlyBoughtTogether.filter(
+          (data: any) => data.id === item.id
+        )[0].color,
+        img: dataFrequentlyBoughtTogether.filter(
+          (data: any) => data.id === item.id
+        )[0].url,
+        size: null,
+        combo: null,
+      }));
+    const updatedCart = [...products, ...storedData].reduce(
+      (acc: any, item: any) => {
+        const existingItem = acc.find(
+          (el: any) =>
+            el.id === item.id &&
+            el.name === item.name &&
+            el.color === item.color &&
+            el.img === item.img &&
+            el.size === item.size &&
+            el.combo === item.combo
+        );
+        if (existingItem) {
+          existingItem.totalPrice += item.totalPrice;
+          existingItem.quantity += item.quantity;
+        } else {
+          acc.push({ ...item });
+        }
+        return acc;
+      },
+      []
+    );
+    localStorage.setItem("cart", JSON.stringify(updatedCart));
+    window.dispatchEvent(new Event("cartUpdated"));
+  }, [dataFrequentlyBoughtTogether]);
   return (
     <div className={clsx(styles.other_product_options)}>
       <h5>Frequently Bought Together</h5>
@@ -70,11 +120,16 @@ export default function OtherProductOptions({dataApi,dataFrequentlyBoughtTogethe
 
       <div className={clsx(styles.price_other_product_options)}>
         <span style={{ fontSize: "17px", fontWeight: "600" }}>Total</span>
-        <span style={{ textDecoration: "line-through" }}>$100</span>
-        <span style={{ fontWeight: "800" }}>$80</span>
+
+        <span style={{ fontWeight: "800" }}>$99.00</span>
       </div>
-      <button className={clsx(styles.by_other_product_options)}>
-        Add bundle to cart
+      <button
+        onClick={handleAddToCart}
+        className={clsx(styles.by_other_product_options)}
+      >
+        <Link href={{ pathname: "/cart" as "/pathnames" }}>
+          Add bundle to cart
+        </Link>
       </button>
     </div>
   );

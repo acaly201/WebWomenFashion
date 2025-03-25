@@ -19,12 +19,13 @@ import { useAppDispatch, useAppSelector } from "@/redux/hooks";
 import { useEffect, useState } from "react";
 import type { TypeDemoGuide } from "@/setting/dataType";
 import type { TypeContentDemoGuide } from "@/setting/dataType";
+import { useGoToInfoProduct } from "../products/goToInfoProduct";
 export default function DemoGuide() {
   const [dataDemoGuide, setDataDemoGuide] = useState<
     TypeDemoGuide[] | undefined
-  >(undefined);
+  >([]);
   const [dataDemoGuide1, setDataDemoGuide1] = useState<[] | undefined>(
-    undefined
+    []
   );
   const [valueOnChange, setValuaOnChange] = useState<boolean>();
   const dispatch = useAppDispatch();
@@ -32,6 +33,7 @@ export default function DemoGuide() {
   const statusShrink = useAppSelector(selectShrinkDemoGuide);
   const statusShowSelect = useAppSelector(selectShowSelect);
   const dataShowSelect = useAppSelector(selectDataShowSelect);
+  const goToInfoProduct=useGoToInfoProduct()
   useEffect(() => {
     fetch(Api.Demo_Guide.getAll)
       .then((repon) => {
@@ -44,6 +46,7 @@ export default function DemoGuide() {
       })
       .catch(() => Error);
     dispatch(apiAllProduct());
+
   }, []);
   useEffect(() => {
     dataShowSelect &&
@@ -57,6 +60,7 @@ export default function DemoGuide() {
           setDataDemoGuide1(data);
         })
         .catch(() => Error);
+      
   }, [dataShowSelect, valueOnChange]);
   const router = useRouter();
   const handleOnChange = (value: TypeContentDemoGuide) => {
@@ -109,7 +113,7 @@ export default function DemoGuide() {
             <p>Select options below to get the best of this demo 👇</p>
             <p>I want to show ...</p>
             <ul>
-              {dataDemoGuide ? (
+              {dataDemoGuide && dataDemoGuide.length > 0 ? (
                 dataDemoGuide.map((data, index: any) => {
                   return (
                     statusShowSelect && (
@@ -152,9 +156,9 @@ export default function DemoGuide() {
               ) : (
                 <li>Load...</li>
               )}
-              {dataDemoGuide1 &&
+              {dataDemoGuide1 && dataDemoGuide1.length > 0 &&
                 !statusShowSelect &&
-                dataDemoGuide1.map((valuee: any, index: any) => {
+                dataDemoGuide1.map((valuee: any, index: number) => {
                   return (
                     <>
                       <li style={{ cursor: "pointer" }} key={index}>
@@ -181,7 +185,7 @@ export default function DemoGuide() {
                       {valuee.status && (
                         <p>
                           Click{" "}
-                          <span
+                          <span onClick={()=>goToInfoProduct('women-oversized-sweatshirt',6815747670088)}
                             style={{
                               textDecoration: "underline",
                               cursor: "pointer",

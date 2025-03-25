@@ -9,17 +9,20 @@ import {
   selectDataImg,
   status,
 } from "@/redux/features/apiProduct/reduceProduct";
-export default function ImgProduct(props: { data: any }) {
-  const { data } = props;
-  const [status, setStatus] = useState<boolean>(false);
-  const imageRefs = useRef<any>({});
+export default function ImgProduct({
+  data,
+  status,
+  imageRefs,
+  handleClickImg,
+}: {
+  data:any;
+  status:boolean;
+  imageRefs:any;
+  handleClickImg:(e:number)=>void;
+}) {
+
   const dataImgs = useAppSelector(selectDataImg);
-  const handleClickImg = (id: number) => {
-    setStatus(!status);
-    setTimeout(() => {
-      imageRefs.current[id]?.scrollIntoView({});
-    });
-  };
+
   return (
     <div
       className={styles.box_right_product}

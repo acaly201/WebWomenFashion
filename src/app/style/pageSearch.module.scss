@@ -1,0 +1,33 @@
+.box_tab_search {
+  width: 100%;
+  height: max-content;
+  text-align: center;
+  padding: 50px 0 0 0;
+  h1 {
+    font-size: 30px;
+  }
+  .input_search {
+    margin: 20px auto;
+    width: 30%;
+    border: 1px solid darkgray;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &:hover {
+      border: 1px solid black;
+    }
+    input {
+      width: 80%;
+      height: 100%;
+      padding: 10px 0;
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+  p {
+
+    margin-bottom: 50px;
+  }
+}

@@ -1,0 +1,169 @@
+.page_cart {
+  padding: 100px 180px;
+  .info_cart {
+    width: 100%;
+    text-align: center;
+    h2 {
+      font-size: 40px;
+    }
+    h3 {
+      font-size: 30px;
+    }
+    p {
+      color: rgb(110, 109, 109);
+      span {
+        border-bottom: 1px solid black;
+        cursor: pointer;
+      }
+    }
+  }
+  button {
+    border: 1px solid black;
+    padding: 10px 15px;
+    color: white;
+    display: block;
+    background-color: black;
+    margin: 20px auto;
+  }
+  h1 {
+    font-size: 50px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  .box_products_cart {
+    width: 100%;
+    .title_box_products_cart {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      button {
+        margin: initial;
+        background-color: initial;
+        color: initial;
+        border: initial;
+        border-bottom: 1px solid black;
+        padding: initial;
+      }
+      h2 {
+        font-size: 40px;
+      }
+    }
+    .all_product_cart {
+      width: 100%;
+      padding: 15px 0;
+      height: max-content;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      .title_all_product_cart {
+        width: 100%;
+        display: flex;
+        padding: 10px 0;
+        justify-content: space-between;
+        border-bottom: 1px solid darkgray;
+        span {
+          color: rgb(122, 120, 120);
+        }
+      }
+      .content_all_product_cart {
+        width: 100%;
+        height: max-content;
+        padding: 20px 0;
+        border-bottom: 1px solid darkgray;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        .product_cart {
+          width: 100%;
+          height: max-content;
+          display: flex;
+          justify-content: space-between;
+          .info_product_cart {
+            width: 50%;
+            display: flex;
+            gap: 5%;
+            .img_info_product_cart {
+              width: 25%;
+              height: 160px;
+              .img {
+                width: 100%;
+                height: 100%;
+              }
+            }
+            .info_info_product_cart {
+              width: 70%;
+              display: flex;
+              flex-direction: column;
+              span {
+                display: flex;
+                gap: 5px;
+                align-items: center;
+                color: rgb(122, 120, 120);
+              }
+              h5 {
+                cursor: pointer;
+                &:hover {
+                  text-decoration: underline;
+                }
+              }
+            }
+          }
+          .quantity_product_cart {
+            width: 15%;
+            height: max-content;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            div {
+              width: 80%;
+              background-color: white;
+              border: 1px solid black;
+              height: max-content;
+              padding: 0 10px;
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              span {
+                width: 80%;
+                text-align: center;
+              }
+              button {
+                font-size: 30px;
+              }
+            }
+            button {
+              margin: initial;
+              background-color: initial;
+              color: initial;
+              border: initial;
+              padding: initial;
+              
+            }
+          }
+          .price_product_cart {
+            width: 15%;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+          }
+        }
+      }
+      .total_all_product_cart {
+        width: max-content;
+        text-align: right;
+        margin-top: 30px;
+        span {
+          font-size: 20px;
+        }
+        p {
+          color: rgb(122, 120, 120);
+        }
+        button {
+          margin-right: 0;
+          padding: 10px 150px !important;
+        }
+      }
+    }
+  }
+}
