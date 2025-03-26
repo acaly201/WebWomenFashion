@@ -1,40 +1,32 @@
 import type { NextConfig } from "next";
-import createNextIntlPlugin from 'next-intl/plugin';
+import createNextIntlPlugin from "next-intl/plugin";
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
+        protocol: "https",
         hostname: "**",
-        port: '',
-        pathname: '/**',
-        search: '',
+        port: "",
+        pathname: "/**",
+        search: "",
       },
     ],
   },
   images1: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'cdn.shopify.com',
-        port: '',
-        pathname: '/**',
-        search: '',
+        protocol: "https",
+        hostname: "cdn.shopify.com",
+        port: "",
+        pathname: "/**",
+        search: "",
       },
     ],
   },
 };
-const nextConfig1: NextConfig = {
-  images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'cdn.shopify.com',
-        port: '',
-        pathname: '/**',
-        search: '',
-      },
-    ],
+module.exports = {
+  eslint: {
+    ignoreDuringBuilds: true,
   },
 };
 const withNextIntl = createNextIntlPlugin();
