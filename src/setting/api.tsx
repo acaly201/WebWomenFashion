@@ -1,9 +1,9 @@
-export const Api_URL = "https://webwomenfashion-production.up.railway.app/db";
+export const Api_URL = "https://webwomenfashion-production.up.railway.app";
 export const PREFIX = "/";
 export const NAME_API = {
   List_Sample: "list_sample",
   Demo_Guide: "demo_guide",
-  List_Product :"list_product"
+  List_Product: "list_product",
 };
 export const Api = {
   List_Sample: {
@@ -13,10 +13,10 @@ export const Api = {
   Demo_Guide: {
     getAll: Api_URL + PREFIX + NAME_API.Demo_Guide,
     getById: Api_URL + PREFIX + NAME_API.Demo_Guide + PREFIX,
-    getByContent :Api_URL + PREFIX,
+    getByContent: Api_URL + PREFIX,
   },
   List_Product: {
-    getAll: Api_URL + PREFIX + NAME_API.List_Product ,
-    getById:Api_URL + PREFIX + NAME_API.List_Product + PREFIX,
-  }
+    getAll: Api_URL + PREFIX + NAME_API.List_Product,
+    getById: Api_URL + PREFIX + NAME_API.List_Product + PREFIX,
+  },
 };
