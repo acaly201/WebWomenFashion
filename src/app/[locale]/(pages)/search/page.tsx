@@ -1,5 +1,4 @@
 "use client";
-import { useMemo, useRef, useState } from "react";
 import Catalog from "../catalog/page";
 import styles from "@/app/style/pageSearch.module.scss";
 import { useRouter } from "@/i18n/navigation";
@@ -16,8 +15,6 @@ import {
   dataProductBySearch,
 } from "@/redux/features/apiProduct/reduceProduct";
 export default function Search() {
-  const refSearch = useRef<HTMLDivElement>(null);
-  const [textEror, setTextEror] = useState<string>("");
   const dispath = useAppDispatch();
   const dataProduct = useAppSelector(selectData);
   const dataProduct1 = useAppSelector(selectData1);

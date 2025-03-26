@@ -39,7 +39,7 @@ export default function HomePage() {
         </div>
         <div className={styles.list_sample}>
           {listSample && listSample.length > 0 ? (
-            listSample.map((data: any, index) => {
+            listSample.map((data: any) => {
               return (
                 <div className={styles.box_sample} key={data.id}>
                   <div

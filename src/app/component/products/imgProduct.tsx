@@ -1,26 +1,20 @@
 "use client";
 import Image from "next/image";
-import { useState, useRef } from "react";
 import { FaSearchPlus } from "react-icons/fa";
 import styles from "@/app/style/imgProduct.module.scss";
-import { useAppDispatch, useAppSelector } from "@/redux/hooks";
-import {
-  selectData,
-  selectDataImg,
-  status,
-} from "@/redux/features/apiProduct/reduceProduct";
+import { useAppSelector } from "@/redux/hooks";
+import { selectDataImg } from "@/redux/features/apiProduct/reduceProduct";
 export default function ImgProduct({
   data,
   status,
   imageRefs,
   handleClickImg,
 }: {
-  data:any;
-  status:boolean;
-  imageRefs:any;
-  handleClickImg:(e:number)=>void;
+  data: any;
+  status: boolean;
+  imageRefs: any;
+  handleClickImg: (e: number) => void;
 }) {
-
   const dataImgs = useAppSelector(selectDataImg);
 
   return (

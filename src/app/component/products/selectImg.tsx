@@ -5,7 +5,6 @@ import { showImg } from "@/redux/features/apiProduct/reduceProduct";
 import { useAppDispatch, useAppSelector } from "@/redux/hooks";
 import { selectDataImg } from "@/redux/features/apiProduct/reduceProduct";
 import Image from "next/image";
-import { group } from "console";
 
 export default function SelectImg(props: { data: any }) {
   const { data } = props;

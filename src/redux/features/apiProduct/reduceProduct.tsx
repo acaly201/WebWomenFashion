@@ -1,6 +1,5 @@
 import { createAppSlice } from "@/redux/createAppSlice";
 import { apiAllProduct } from "./apiProduct";
-import { act } from "react";
 
 export interface ShowState1 {
   dataApi: object[];

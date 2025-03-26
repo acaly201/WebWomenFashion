@@ -1,10 +1,7 @@
 "use client";
 import styles from "@/app/style/buyProduct.module.scss";
 import clsx from "clsx";
-import { useState } from "react";
 import { formatCurrency } from "@/setting/formatNumber";
-import { useAppDispatch } from "@/redux/hooks";
-import { showImg2 } from "@/redux/features/apiProduct/reduceProduct";
 export default function BuyMore({
   data,
   handleClickSelect,
@@ -38,9 +35,6 @@ export default function BuyMore({
       price1: formatCurrency(data.price * 3),
     },
   ];
-
-  const dispatch = useAppDispatch();
-
   return (
     <div className={styles.box_buy_more}>
       {dataBuyMore.map((item, index) => {

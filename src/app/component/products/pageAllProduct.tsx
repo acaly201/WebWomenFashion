@@ -1,12 +1,10 @@
 "use client";
-import { useRef, useState, useMemo } from "react";
-import { useRouter } from "@/i18n/navigation";
+import { useRef, useState} from "react";
 import Image from "next/image";
 import ReactPaginate from "react-paginate";
 import { useAppDispatch, useAppSelector } from "@/redux/hooks";
 import { showImg } from "@/redux/features/apiProduct/reduceProduct";
 import {
-  selectData,
   selectDataImg,
   status,
 } from "@/redux/features/apiProduct/reduceProduct";

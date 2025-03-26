@@ -47,9 +47,8 @@ export default function DemoGuide() {
       .catch(() => Error);
     dispatch(apiAllProduct());
 
-  }, []);
+  }, [dispatch]);
   useEffect(() => {
-    dataShowSelect &&
       fetch(Api.Demo_Guide.getByContent + dataShowSelect)
         .then((repon) => {
           if (repon) {

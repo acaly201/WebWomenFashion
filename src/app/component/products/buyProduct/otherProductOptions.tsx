@@ -56,7 +56,7 @@ export default function OtherProductOptions({
     );
     localStorage.setItem("cart", JSON.stringify(updatedCart));
     window.dispatchEvent(new Event("cartUpdated"));
-  }, [dataFrequentlyBoughtTogether]);
+  }, [dataFrequentlyBoughtTogether,dataApi]);
   return (
     <div className={clsx(styles.other_product_options)}>
       <h5>Frequently Bought Together</h5>

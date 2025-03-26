@@ -12,7 +12,6 @@ import { SiAmericanexpress } from "react-icons/si";
 import { useLocale } from "next-intl";
 import { usePathname, useRouter } from "@/i18n/navigation";
 import { ChangeEvent, useTransition } from "react";
-import { useParams } from "next/navigation";
 import { Locale } from "@/i18n/routing";
 function Footer() {
   const t = useTranslations("footer");

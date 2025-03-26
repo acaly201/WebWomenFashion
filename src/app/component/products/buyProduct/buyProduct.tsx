@@ -19,7 +19,6 @@ import { MdError } from "react-icons/md";
 import { IoMdClose } from "react-icons/io";
 import { FaChevronDown } from "react-icons/fa";
 import Image from "next/image";
-import { title } from "process";
 export default function ByProduct(props: { data: any }) {
   const { data } = props;
   const goToInfoProduct = useGoToInfoProduct();
@@ -48,7 +47,11 @@ export default function ByProduct(props: { data: any }) {
   }, []);
   useEffect(() => {
     function handleClickOutside(event: any) {
-      if (dataPreview != null && divRef.current && !divRef.current.contains(event.target)) {
+      if (
+        dataPreview != null &&
+        divRef.current &&
+        !divRef.current.contains(event.target)
+      ) {
         setDataPreview(null);
       }
     }
@@ -82,6 +85,7 @@ export default function ByProduct(props: { data: any }) {
 
   const handleAddToCart = useCallback(() => {
     const storedData = JSON.parse(localStorage.getItem("cart") ?? "[]");
+    let arrProduct = [];
     const product = {
       id: data.id,
       name: data.title,
@@ -126,6 +130,7 @@ export default function ByProduct(props: { data: any }) {
           ? "Duo"
           : "Trio",
     };
+    
     if (
       !data.other_product &&
       data.type != "shoe" &&
@@ -133,7 +138,7 @@ export default function ByProduct(props: { data: any }) {
       selectBuyNow != 1
     ) {
       if (selectBuyNow == 2) {
-        var arrProduct = dataColorProduct
+        arrProduct = dataColorProduct
           .slice(0, -1)
           .map((item: any, index: number) => ({
             id: data.id,
@@ -148,7 +153,7 @@ export default function ByProduct(props: { data: any }) {
             combo: "Duo",
           }));
       } else {
-        var arrProduct = dataColorProduct.map((item: any, index: number) => ({
+        arrProduct = dataColorProduct.map((item: any, index: number) => ({
           id: data.id,
           name: data.title,
           handle: data.handle,

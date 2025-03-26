@@ -1,14 +1,12 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 
 export default function TitleUpdater() {
   const pathname = usePathname();
-  const [isLoading, setIsLoading] = useState(false);
-
   useEffect(() => {
-    let frames = ['◐', '◓', '◑', '◒'];
+    const frames = ['◐', '◓', '◑', '◒'];
     let i = 0;
     let interval: NodeJS.Timeout | null = null;
 
@@ -20,7 +18,7 @@ export default function TitleUpdater() {
 
         if (nextUrl === pathname) return; // Nếu trang không đổi, không chạy loading
 
-        setIsLoading(true);
+      
         interval = setInterval(() => {
           document.title = `Loading ${frames[i]}`;
           i = (i + 1) % frames.length;
@@ -32,7 +30,6 @@ export default function TitleUpdater() {
 
     const handleLoad = () => {
       if (interval) clearInterval(interval);
-      setIsLoading(false);
     };
 
     window.addEventListener('load', handleLoad);

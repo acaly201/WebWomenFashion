@@ -1,6 +1,6 @@
 "use client";
 import { useTranslations } from "next-intl";
-import { useState, useRef, useEffect, useMemo } from "react";
+import { useState, useRef, useEffect} from "react";
 import { SlArrowDown } from "react-icons/sl";
 import { useAppSelector } from "@/redux/hooks";
 import { selectData } from "@/redux/features/apiProduct/reduceProduct";

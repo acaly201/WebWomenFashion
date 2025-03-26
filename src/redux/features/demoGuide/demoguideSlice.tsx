@@ -1,6 +1,4 @@
 import { createAppSlice } from "@/redux/createAppSlice";
-import type { AppThunk } from "@/redux/store";
-import type { PayloadAction } from "@reduxjs/toolkit";
 
 export interface ShowState {
   showDemoGuide: boolean;

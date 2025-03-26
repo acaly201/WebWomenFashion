@@ -1,7 +1,6 @@
 "use client";
 import { useTranslations } from "next-intl";
 import { useState, useMemo } from "react";
-import { SlArrowDown } from "react-icons/sl";
 import { formatCurrency } from "@/setting/formatNumber";
 import styles from "@/app/style/catalogPage.module.scss";
 import AllProducts from "@/app/component/products/pageAllProduct";
@@ -71,7 +70,7 @@ export default function Catalog({dataProduct1}:any) {
     setTextInput({ numberForm: "", numberTo: "" });
   };
   const filteredProducts = useMemo(() => {
-    let filtered = dataProduct.filter(
+    const filtered = dataProduct.filter(
       (item: any) =>
         (textInput.numberForm == "" ? 0 : textInput.numberForm) < item.price &&
         item.price <
@@ -85,7 +84,7 @@ export default function Catalog({dataProduct1}:any) {
     );
     let filtered1 = filtered;
     if (statusOnchange.inStock !== statusOnchange.outStock) {
-      filtered1 = filtered.filter((item: any) => {
+      filtered1 = filtered.filter((item:any) => {
         const inStock = item.variants.every(
           (item1: any) => item1.featured_image?.stock > 0
         );
@@ -106,7 +105,7 @@ export default function Catalog({dataProduct1}:any) {
         filtered1.sort((a: any, b: any) => b.price - a.price);
         break;
       default:
-        filtered1;
+        break;
     }
     return [filtered, filtered1];
   }, [dataProduct, textInput, statusOnchange, sortBy]);

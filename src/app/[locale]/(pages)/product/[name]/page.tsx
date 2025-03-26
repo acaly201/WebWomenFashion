@@ -23,11 +23,13 @@ export default function Product() {
     });
   };
   useEffect(() => {
-    const id = localStorage.getItem(`productId${name}`);
-    fetch(Api.List_Product.getById + id)
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  }, []);
+    if (name) {
+      const id = localStorage.getItem(`productId${name}`);
+      fetch(Api.List_Product.getById + id)
+        .then((res) => res.json())
+        .then((data) => setData(data));
+    }
+  }, [name]);
   if (data) {
     return (
       <>
