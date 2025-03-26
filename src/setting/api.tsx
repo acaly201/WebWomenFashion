@@ -1,4 +1,4 @@
-export const Api_URL = "http://localhost:4000";
+export const Api_URL = "https://webwomenfashion-production.up.railway.app/db";
 export const PREFIX = "/";
 export const NAME_API = {
   List_Sample: "list_sample",
