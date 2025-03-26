@@ -1,5 +1,6 @@
 import type { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
+import { i18n } from "@/i18n";
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
@@ -25,6 +26,8 @@ const nextConfig: NextConfig = {
   },
 };
 module.exports = {
+  i18n,
+  reactStrictMode: true,
   eslint: {
     ignoreDuringBuilds: true,
   },
